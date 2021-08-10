@@ -1,0 +1,44 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "%vlocity_namespace%__PaymentMethod__c",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "%vlocity_namespace%__CardType__c",
+        "%vlocity_namespace%__DomainObjectFieldType__c": "String",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "SetYourPayment:PaymentDetails:CardType",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "CreateCreditCardPaymentMethodCustom7863",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "CreateCreditCardPaymentMethod",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DefaultValue__c": "true",
+        "%vlocity_namespace%__DomainObjectAPIName__c": "%vlocity_namespace%__PaymentMethod__c",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "%vlocity_namespace%__IsActive__c",
+        "%vlocity_namespace%__DomainObjectFieldType__c": "Boolean",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "CreateCreditCardPaymentMethodCustom9373",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "CreateCreditCardPaymentMethod",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "%vlocity_namespace%__PaymentMethod__c",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "%vlocity_namespace%__Last4Numbers__c",
+        "%vlocity_namespace%__DomainObjectFieldType__c": "String",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "SetYourPayment:PaymentDetails:Last4Numbers",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "CreateCreditCardPaymentMethodCustom5853",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "CreateCreditCardPaymentMethod",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]

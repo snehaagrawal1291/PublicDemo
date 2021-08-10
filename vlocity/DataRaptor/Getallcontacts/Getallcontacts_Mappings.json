@@ -1,0 +1,63 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 0,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Contac",
+        "%vlocity_namespace%__FilterGroup__c": 0,
+        "%vlocity_namespace%__FilterOperator__c": "<>",
+        "%vlocity_namespace%__FilterValue__c": "''",
+        "%vlocity_namespace%__GlobalKey__c": "822c9c23-427e-5469-aacf-39a22590062b",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "AccountId",
+        "%vlocity_namespace%__InterfaceObjectLookupOrder__c": 1,
+        "%vlocity_namespace%__InterfaceObjectName__c": "Contact",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "GetallcontactsCustom5344",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "Getallcontacts",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "charges:LastModifieddate",
+        "%vlocity_namespace%__GlobalKey__c": "f5c733e3-6495-f567-e28d-bb877e079194",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Contac:LastModifiedDate",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "GetallcontactsCustom9048",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "Getallcontacts",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "charges:LastName",
+        "%vlocity_namespace%__GlobalKey__c": "19ce9c06-16de-41ff-ed97-9d11fe476ce2",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Contac:LastName",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "GetallcontactsCustom8324",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "Getallcontacts",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "charges:phone",
+        "%vlocity_namespace%__GlobalKey__c": "3f93782f-9de4-0ca2-d922-18d15d9a8ddb",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Contac:Phone",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "GetallcontactsCustom7938",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "Getallcontacts",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]

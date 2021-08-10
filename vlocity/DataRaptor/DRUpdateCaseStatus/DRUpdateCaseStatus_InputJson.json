@@ -1,0 +1,21 @@
+{
+    "BarredDeviceSortedStep": {
+    },
+    "ContextId": null,
+    "timeStamp": null,
+    "userId": null,
+    "userName": null,
+    "userProfile": null,
+    "userTimeZone": null,
+    "userType": "Agent",
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+        "AssetOrderRemoteAction": null,
+        "BarredDeviceSortedStep": null,
+        "DoneAction": null,
+        "ExtractOrderLineItem": null,
+        "SetOrderIdVal": null,
+        "UpdateOrderItemStatusToActive": null
+    }
+}

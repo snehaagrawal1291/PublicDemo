@@ -1,0 +1,46 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 0,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "SubscriberEventEndpoint",
+        "%vlocity_namespace%__FilterGroup__c": 0,
+        "%vlocity_namespace%__FilterOperator__c": "=",
+        "%vlocity_namespace%__FilterValue__c": "EndpointType",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "MasterLabel",
+        "%vlocity_namespace%__InterfaceObjectLookupOrder__c": 1,
+        "%vlocity_namespace%__InterfaceObjectName__c": "H3G_Endpoints__mdt",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "DPA_FetchEndpointCustoma135E000001P7NOQA0Item2",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "DPA_FetchEndpoint",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "clientId",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "SubscriberEventEndpoint:Client_id__c",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "DPA_FetchEndpointCustom1939",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "DPA_FetchEndpoint",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "endpoint",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "SubscriberEventEndpoint:URL__c",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "DPA_FetchEndpointCustoma135E000001P7NOQA0Item6",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "DPA_FetchEndpoint",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]

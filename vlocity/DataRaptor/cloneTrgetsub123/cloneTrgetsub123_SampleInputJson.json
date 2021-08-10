@@ -1,0 +1,184 @@
+{
+    "getSubscriberDetailsDR": {
+        "Payload": {
+            "Account": {
+                "BillingAccount": {
+                    "AccountContactRelationship": [
+                        {
+                            "Contact": {
+                                "Address": {
+                                    "Current": {
+                                        "addressLine1": "Spacers18 King Street",
+                                        "country": "United Kingdom",
+                                        "locality": "MAIDENHEAD",
+                                        "postcode": "SL6 1EF",
+                                        "state": "Berkshire"
+                                    },
+                                    "Previous": {
+                                        "addressLine1": "Flat 126a King Street",
+                                        "country": "United Kingdom",
+                                        "locality": "MAIDENHEAD",
+                                        "postcode": "SL6 1EF",
+                                        "state": "Berkshire"
+                                    }
+                                },
+                                "AddressType": "Mailing",
+                                "DateofBirth": "1994-08-03",
+                                "FirstName": "Raziya3",
+                                "IsAgeVerified": false,
+                                "LastName": "Sulthana",
+                                "Salutation": "Miss",
+                                "UserEmail": "tejovineela.pothula@tcs.com"
+                            },
+                            "Role": "Payer"
+                        },
+                        {
+                            "Contact": {
+                                "Address": {
+                                    "Current": {
+                                        "AddressLine1": "Near ICIC Bank",
+                                        "AddressLine2": "Opposite to Corporation Office",
+                                        "BFPO": "Test1 BFO",
+                                        "BuildingName": "Sree Rama Nilayam",
+                                        "BuildingNumber": "KA1234",
+                                        "DependentLocality": "Madiwala",
+                                        "DependentStreetName": "Maruthi Nagar",
+                                        "DoubleDependentLocality": "DD123",
+                                        "Locality": "INDIA",
+                                        "POBox": "123456",
+                                        "PostCode": "SE2 3AE",
+                                        "Province": "P2",
+                                        "StreetName": "Bill Test",
+                                        "SubUnitNumber": "1234"
+                                    },
+                                    "Previous": {
+                                        "AddressLine1": "Near ICIC Bank",
+                                        "AddressLine2": "Opposite to Corporation Office",
+                                        "BFPO": "Test1 BFO",
+                                        "BuildingName": "Sree Rama Nilayam",
+                                        "BuildingNumber": "KA1234",
+                                        "DependentLocality": "Madiwala",
+                                        "DependentStreetName": "Maruthi Nagar",
+                                        "DoubleDependentLocality": "DD123",
+                                        "Locality": "INDIA",
+                                        "POBox": "123456",
+                                        "PostCode": "SE2 3AE",
+                                        "Province": "P2",
+                                        "StreetName": "Bill Test",
+                                        "SubUnitNumber": "1234"
+                                    }
+                                },
+                                "AddressType": "Billing",
+                                "DateofBirth": "1991-03-16",
+                                "FirstName": "billing",
+                                "IsAgeVerified": true,
+                                "LastName": "billing",
+                                "Salutation": "Mrs"
+                            },
+                            "EndDate": "2019-07-09",
+                            "Role": "Payer",
+                            "StartDate": "2019-07-09"
+                        }
+                    ],
+                    "AccountNumber": "0002679",
+                    "BillCycleDay": 1,
+                    "BillingOverDue": false,
+                    "Collections": false,
+                    "Fraud": false,
+                    "ItemisedBilling": false,
+                    "Status": "Active"
+                },
+                "CustomerAccount": {
+                    "AccountContactRelationship": {
+                        "Contact": {
+                            "Address": {
+                                "Current": {
+                                    "addressLine1": "Spacers18 King Street",
+                                    "country": "United Kingdom",
+                                    "locality": "MAIDENHEAD",
+                                    "postcode": "SL6 1EF",
+                                    "state": "Berkshire"
+                                },
+                                "Previous": {
+                                    "addressLine1": "Flat 126a King Street",
+                                    "country": "United Kingdom",
+                                    "locality": "MAIDENHEAD",
+                                    "postcode": "SL6 1EF",
+                                    "state": "Berkshire"
+                                }
+                            },
+                            "AddressType": "Mailing",
+                            "DateofBirth": "1994-08-03",
+                            "FirstName": "Raziya3",
+                            "IsAgeVerified": false,
+                            "LastName": "Sulthana",
+                            "Salutation": "Miss",
+                            "UserEmail": "tejovineela.pothula@tcs.com"
+                        },
+                        "EndDate": "2019-07-08",
+                        "Role": "Owner",
+                        "StartDate": "2019-07-08"
+                    },
+                    "AccountNumber": "0002679",
+                    "Brand": "Three",
+                    "StartDate": "2019-07-08",
+                    "Status": "Active",
+                    "Subscriptions": {
+                        "SubscriptionNumber": "1000000162"
+                    },
+                    "TradingName": "Customer"
+                },
+                "ServiceAccount": {
+                    "AccountContactRelationship": {
+                        "Contact": {
+                            "Address": {
+                                "Current": {
+                                    "AddressLine1": "Near ICIC Bank",
+                                    "AddressLine2": "Opposite to Corporation Office",
+                                    "BFPO": "Test1 BFO",
+                                    "BuildingName": "Sree Rama Nilayam",
+                                    "BuildingNumber": "KA1234",
+                                    "DependentLocality": "Madiwala",
+                                    "DependentStreetName": "Maruthi Nagar",
+                                    "DoubleDependentLocality": "DD123",
+                                    "Locality": "INDIA",
+                                    "POBox": "123456",
+                                    "PostCode": "SE2 3AE",
+                                    "Province": "P2",
+                                    "StreetName": "ServiceTest",
+                                    "SubUnitNumber": "1234"
+                                },
+                                "Previous": {
+                                    "AddressLine1": "Near ICIC Bank",
+                                    "AddressLine2": "Opposite to Corporation Office",
+                                    "BFPO": "Test1 BFO",
+                                    "BuildingName": "Sree Rama Nilayam",
+                                    "BuildingNumber": "KA1234",
+                                    "DependentLocality": "Madiwala",
+                                    "DependentStreetName": "Maruthi Nagar",
+                                    "DoubleDependentLocality": "DD123",
+                                    "Locality": "INDIA",
+                                    "POBox": "123456",
+                                    "PostCode": "SE2 3AE",
+                                    "Province": "P2",
+                                    "StreetName": "Service Test",
+                                    "SubUnitNumber": "1234"
+                                }
+                            },
+                            "DateofBirth": "1991-03-16",
+                            "FirstName": "Service",
+                            "IsAgeVerified": true,
+                            "LastName": "Service",
+                            "Salutation": "Mrs"
+                        },
+                        "EndDate": "2019-07-08",
+                        "Role": "User",
+                        "StartDate": "2019-07-08"
+                    },
+                    "AccountNumber": "0002679",
+                    "Status": "Active"
+                }
+            }
+        }
+    }
+}

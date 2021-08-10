@@ -1,0 +1,22 @@
+{
+    "ContextId": null,
+    "timeStamp": null,
+    "userId": null,
+    "userName": null,
+    "userProfile": null,
+    "userTimeZone": null,
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+        "DataRaptorExtractAction1": null,
+        "DataRaptorPostAction1": null,
+        "DataRaptorTransformAction1": null,
+        "EmailAction1": null,
+        "HTTPAction1": null,
+        "ListAction1": null,
+        "MatrixAction1": null,
+        "RemoteAction1": null,
+        "ResponseAction1": null,
+        "SetValues1": null
+    }
+}

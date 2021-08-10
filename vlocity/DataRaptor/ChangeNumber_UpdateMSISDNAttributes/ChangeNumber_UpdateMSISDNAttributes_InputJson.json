@@ -1,0 +1,42 @@
+{
+    "ActiveAssetVerification": {
+        "ActivateAssetMessaging": null
+    },
+    "ContextId": null,
+    "FetchNumbers": {
+        "FetchMSISDN": null
+    },
+    "Request Date": {
+        "MessagingRD": null,
+        "RequestDate": null,
+        "ValidateRequestDate": null
+    },
+    "SelectNumber": {
+        "ChooseMSISDN": null
+    },
+    "timeStamp": null,
+    "userId": null,
+    "userName": null,
+    "userProfile": null,
+    "userTimeZone": null,
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+        "ActiveAssetVerification": null,
+        "AddToCart": null,
+        "CreateFDO": null,
+        "DataRaptorExtractAction1": null,
+        "DataRaptorExtractAction2": null,
+        "DataRaptorExtractAction3": null,
+        "FetchNumbers": null,
+        "GetAccountId": null,
+        "IntegrationProcedureAction1": null,
+        "RemoteAction3": null,
+        "Request Date": null,
+        "SelectNumber": null,
+        "SetValues1": null,
+        "SetValues2": null,
+        "SetValues3": null,
+        "SetValues4": null
+    }
+}

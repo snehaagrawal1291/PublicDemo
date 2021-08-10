@@ -1,0 +1,46 @@
+{
+    "ContextId": "a109E000001XzIw",
+    "DRId_%vlocity_namespace%__CustomerInteractionTopic__c": "a0z9E000002o1ylQAA",
+    "DRId_%vlocity_namespace%__CustomerInteraction__c": "a109E000001XzIwQAK",
+    "Id": "a109E000001XzIwQAK",
+    "InteractionId": "a109E000001XzIw",
+    "InteractionTopic": {
+        "Name": "a0z9E000002o1xR"
+    },
+    "InteractionTopics": {
+        "AddedInteractionTopics": {
+            "NewOutcome": "Create Case",
+            "NewReason": "Answering Machine",
+            "NewSubReason": "Abroad"
+        },
+        "InteractionComments": {
+            "Comments": null
+        },
+        "InteractionTopic": {
+            "Id": "a109E000001XzIwQAK",
+            "Outcome": null,
+            "Reason": null,
+            "SubReason": null
+        }
+    },
+    "id": "a1z9E000001NQOcQAO",
+    "layout": "lightning",
+    "testContextId": "a109E000001XzIw",
+    "timeStamp": "2018-05-10T11:21:12.416Z",
+    "userCurrencyCode": "GBP",
+    "userId": "0059E000003FbayQAC",
+    "userName": "anyambura@vlocity.com.three.dev01",
+    "userProfile": "Custom Admin",
+    "userTimeZone": 60,
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+        "CreateInteractionTopics": 2365,
+        "ExtractInteractionTopics": 1272,
+        "InteractionTopics": 3660514,
+        "OmniScriptSessionToken": "f6f5748d-68f5-4fa5-bd5d-e3dd56dcc57b",
+        "SetInteractionId": 317,
+        "SetInteractionValues": 39,
+        "UpdateInteraction": 506
+    }
+}

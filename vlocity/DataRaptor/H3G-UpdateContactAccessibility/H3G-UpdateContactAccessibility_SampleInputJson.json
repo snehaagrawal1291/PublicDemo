@@ -1,0 +1,12 @@
+{
+    "bundleName": "H3G-UpdateContactAccessibility",
+    "filesMap": {
+    },
+    "objectList": {
+        "Accessibility": {
+            "ContactId": "0035E00000wGvz1",
+            "Disability": "Visually impaired ;Hearing impaired ;Disabled customer ",
+            "Vulnerability": "Armed forces - Permanent;Bereavement - Temporary"
+        }
+    }
+}

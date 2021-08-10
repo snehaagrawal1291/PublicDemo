@@ -1,0 +1,31 @@
+{
+    "epc_stg_Product2__c": [
+        {
+            "Catalog_Reference__c": "OFF_TB_HTCDESIRE500GoldDATA24GB_AYCEMIN",
+            "Description__c": "TB_HTC_DESIRE_500Gold_DATA24GBPH_AYCEMIN",
+            "EPC_Offering_Classification__c": "Bundle",
+            "ExtnProdCategory__c": "OFF_TB_HTCDESIRE500GoldDATA24GB_AYCEMIN",
+            "IsActive__c": true,
+            "IsRPI__c": "Text",
+            "IsShippable__c": "Text",
+            "Name": "OFF_TB_HTC_DESIRE_500Gold_DATA24GBPH_AYCEMIN",
+            "Pre_order_flag__c": false,
+            "PricePlan_Specification_Id__c": "Tric_PP_HTCDESIRE500GoldDATA24GB_AYCEMIN",
+            "ProductCode__c": "OFF_TB_HTCDESIRE500GoldDATA24GB_AYCEMIN",
+            "Service_Provider__c": "Text",
+            "Store_Inventory__c": false,
+            "epc_stg_EffectiveDate__c": "2018-01-17",
+            "epc_stg_IsConfigurable__c": true,
+            "epc_stg_IsOrderable__c": true,
+            "epc_stg_JSONAttribute__c": "{\"CH_CONTRACT_DURATION\": \"12\",\"CH_OFFER_SUBTYPES\": \"Advanced\"}",
+            "epc_stg_ObjectTypeId__c": "H3G Bundle Advanced Object Type",
+            "epc_stg_Quantity__c": 1,
+            "epc_stg_SpecificationType__c": "Offer",
+            "epc_stg_Status__c": "Active",
+            "epc_stg_SubType__c": "Text",
+            "epc_stg_Type__c": "Bundle",
+            "epc_stg_UICategory__c": "Text",
+            "epc_stg_Version__c": "Feb14_1_2019"
+        }
+    ]
+}

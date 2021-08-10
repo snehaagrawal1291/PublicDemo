@@ -1,0 +1,59 @@
+{
+    "AddressChangeType": "BFPO",
+    "ContactId": "0034E00000hyjlp",
+    "Core_AddressCheckData": {
+        "AccountAddressType": "Billing",
+        "AccountId": "0014E00000rCFXPQA4",
+        "AddressCheckStep": {
+            "CurrentAddress": {
+                "CurrentAddressBuildingName": "",
+                "CurrentAddressBuildingNumber": "",
+                "CurrentAddressCountry": "United Kingdom",
+                "CurrentAddressLine1": "Uk",
+                "CurrentAddressLine2": "",
+                "CurrentAddressLocality": "Uk",
+                "CurrentAddressPostcode": "se10aa",
+                "CurrentAddressStateOrProvince": "",
+                "CurrentAddressStreetName": "Uk",
+                "CurrentAddressdependentLocality": "",
+                "CurrentAddresssubUnitNr": ""
+            },
+            "CurrentAddressBFPO": {
+                "CurrentBFPOLocationName": "test2",
+                "CurrentBFPONumber": "bf11aa",
+                "CurrentBFPORankName": "test",
+                "CurrentBFPOUnitRegiment": "test1"
+            }
+        },
+        "ContactAddressType": "Mailing",
+        "ContactId": "0034E00000hyjlp",
+        "CurrentAccountAddressInJSON": {
+            "BillingAddress": {
+                "addressLine1": "Uk",
+                "country": "United Kingdom",
+                "locality": "Uk",
+                "postcode": "se10aa",
+                "state": ""
+            },
+            "ShippingAddress": null
+        },
+        "CurrentContactAddressInJSON": {
+            "CurrentMailingAddress": {
+                "addressLine1": "Uk",
+                "country": "United Kingdom",
+                "locality": "Uk",
+                "postcode": "se10aa",
+                "state": ""
+            }
+        },
+        "ModifiedAddressInJSON": {
+            "addressLine1": "Uk",
+            "country": "United Kingdom",
+            "locality": "Uk",
+            "postcode": "se10aa",
+            "state": ""
+        },
+        "OrderAddressType": "",
+        "OrderId": ""
+    }
+}

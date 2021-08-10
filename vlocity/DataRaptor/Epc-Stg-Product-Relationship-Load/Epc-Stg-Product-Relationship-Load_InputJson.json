@@ -1,0 +1,11 @@
+{
+    "Epc_Stg_ProductRelationship": [
+        {
+            "Name": "OFF_1GB_PAYG_BOOST_MONTHLY_OFF_CORETARIFFDATA25GBAYCEVOICETEXT",
+            "epc_stg_MaxQuantity__c": 1,
+            "epc_stg_Product2Id__c": "OFF_CORETARIFFDATA25GBAYCEVOICETEXT",
+            "epc_stg_RelatedProductId__c": "OFF_1GB_PAYG_BOOST_MONTHLY",
+            "epc_stg_RelationshipType__c": "Excludes"
+        }
+    ]
+}

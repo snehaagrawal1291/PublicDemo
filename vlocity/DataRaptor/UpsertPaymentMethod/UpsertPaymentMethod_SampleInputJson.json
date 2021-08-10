@@ -1,0 +1,9 @@
+{
+    "PaymentMethod": {
+        "AccountId": "0019E000009y6pBQAQ",
+        "Id": "a2Q9E000000NH1FUAW",
+        "IsActive": true,
+        "IsPrimary": false,
+        "MethodType": "Adhoc"
+    }
+}

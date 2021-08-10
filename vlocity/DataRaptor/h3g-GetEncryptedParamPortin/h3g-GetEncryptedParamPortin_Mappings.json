@@ -1,0 +1,58 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Formula",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 0,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Formula",
+        "%vlocity_namespace%__FormulaOrder__c": 1,
+        "%vlocity_namespace%__FormulaResultPath__c": "NonThreePhoneNumE",
+        "%vlocity_namespace%__Formula__c": "ENCODE(%NonThreePhoneNum%)",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "h3g-GetEncryptedParamPortinCustoma130Q000003aEbyQAEItem2",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "h3g-GetEncryptedParamPortin",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Formula",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 0,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Formula",
+        "%vlocity_namespace%__FormulaOrder__c": 2,
+        "%vlocity_namespace%__FormulaResultPath__c": "PAC_CodeE",
+        "%vlocity_namespace%__Formula__c": "ENCODE(%PAC_Code%)",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "h3g-GetEncryptedParamPortinCustoma130Q000003aEc3QAEItem1",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "h3g-GetEncryptedParamPortin",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "NonThreePhoneNumE",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "NonThreePhoneNumE",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "h3g-GetEncryptedParamPortinCustoma130Q000003aEc3QAEItem3",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "h3g-GetEncryptedParamPortin",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "PAC_CodeE",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "PAC_CodeE",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "h3g-GetEncryptedParamPortinCustoma130Q000003aEc3QAEItem4",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "h3g-GetEncryptedParamPortin",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]

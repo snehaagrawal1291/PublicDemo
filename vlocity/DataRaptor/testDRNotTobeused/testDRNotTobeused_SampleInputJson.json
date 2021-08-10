@@ -1,0 +1,211 @@
+{
+    "IPResult": {
+        "CreateAccountContactUser": {
+            "AccountContactRelationData": {
+                "AccountId": "0014E000011acNRQAY",
+                "ContactInfo": [
+                    {
+                        "Birthdate": "1999-11-11",
+                        "Brand__c": "Three",
+                        "Description": "NW",
+                        "Email": "n@1234565.com",
+                        "FirstName": "N",
+                        "Id": "0034E00000oez7cQAA",
+                        "LastName": "W",
+                        "MobilePhone": "444444444444",
+                        "Salutation": "Mr",
+                        "Title": "Mr",
+                        "UpsertSuccess": true
+                    }
+                ],
+                "role": "Owner;Payer"
+            },
+            "AccountData": {
+                "Brand": "Three",
+                "BusinessType": "Sole Trader",
+                "ContactNumber": "",
+                "CustClassification": "Residential",
+                "Id": "0014E000011acNRQAY",
+                "Name": "N W",
+                "PreferredPaymentDay": 2,
+                "RecordTypeId": "0120Y000000dM2RQAU",
+                "RegistrationNumber": "",
+                "ReportLevel": "Invoice",
+                "Status": "Active",
+                "VATNumber": ""
+            },
+            "AccountRecordType": {
+                "Id": "0120Y000000dM2RQAU"
+            },
+            "ContactData": {
+                "AccountId": "",
+                "Brand": "Three",
+                "ContactInfo": {
+                    "AutoPaymentMethodId": "Cash",
+                    "ContactId": "",
+                    "DOB": "1999-11-11T00:00:00+00:00",
+                    "Disability": "None",
+                    "Email": "n@1234565.com",
+                    "FirstName": "N",
+                    "Fraud": "0",
+                    "LastName": "W",
+                    "MobilePhone": "444444444444",
+                    "PartyId": "",
+                    "PaymentMethod": "",
+                    "Role": "Payer",
+                    "Salutation": "Mr",
+                    "Status": "Active",
+                    "Title": "Mr",
+                    "UserAlias": "NW",
+                    "VIP": false
+                }
+            },
+            "ContactDetails": {
+                "Email": "n@1234565.com",
+                "Id": "0034E00000oez7cQAA",
+                "LastName": "W",
+                "Phone": ""
+            },
+            "Contact_1": [
+                {
+                    "AccountId": "0014E000011acNRQAY",
+                    "Id": "0034E00000oez7cQAA",
+                    "UpsertSuccess": true
+                }
+            ],
+            "Contact_2": [
+                {
+                    "Brand__c": "Three",
+                    "Email": "n@1234565.com",
+                    "Id": "0034E00000oez7cQAA",
+                    "UpsertSuccess": true
+                }
+            ],
+            "CreatedAccount": {
+                "Account_1": [
+                    {
+                        "%vlocity_namespace%__Status__c": "Active",
+                        "Brand__c": "Three",
+                        "Id": "0014E000011acNRQAY",
+                        "Name": "temp",
+                        "RecordTypeId": "0120Y000000dM2RQAU",
+                        "ReportLevel__c": "Invoice",
+                        "UpsertSuccess": true,
+                        "custClassification__c": "Residential"
+                    },
+                    {
+                        "%vlocity_namespace%__Status__c": "Active",
+                        "Brand__c": "Three",
+                        "Id": "0014E000011acNRQAY",
+                        "Name": "N W",
+                        "RecordTypeId": "0120Y000000dM2RQAU",
+                        "ReportLevel__c": "Invoice",
+                        "UpsertSuccess": true,
+                        "custClassification__c": "Residential"
+                    },
+                    {
+                        "%vlocity_namespace%__Status__c": "Active",
+                        "Brand__c": "Three",
+                        "Id": "0014E000011acNRQAY",
+                        "Name": "N W",
+                        "RecordTypeId": "0120Y000000dM2RQAU",
+                        "ReportLevel__c": "Invoice",
+                        "UpsertSuccess": true,
+                        "custClassification__c": "Residential"
+                    }
+                ],
+                "error": "OK",
+                "responseType": "SObject"
+            },
+            "CreatedAccountContactRelation": {
+                "AccountContactRelation_1": [
+                    {
+                        "AccountId": "0014E000011acNRQAY",
+                        "ContactId": "0034E00000oez7cQAA",
+                        "Id": "07k4E00000Ay5dTQAR",
+                        "Roles": "Owner;Payer",
+                        "UpsertSuccess": true
+                    }
+                ],
+                "error": "OK",
+                "responseType": "SObject"
+            },
+            "CreatedContact": {
+                "Contact_1": [
+                    {
+                        "Birthdate": "1999-11-11",
+                        "Brand__c": "Three",
+                        "Description": "NW",
+                        "Email": "n@1234565.com",
+                        "FirstName": "N",
+                        "Id": "0034E00000oez7cQAA",
+                        "LastName": "W",
+                        "MobilePhone": "444444444444",
+                        "Salutation": "Mr",
+                        "Title": "Mr",
+                        "UpsertSuccess": true
+                    }
+                ],
+                "error": "OK",
+                "responseType": "SObject"
+            },
+            "CreatedUserId": "0054E000004qy0OQAQ",
+            "CustomerCommunityProfile": {
+                "Id": "00e4E000000QN6fQAG"
+            },
+            "CustomerCommunityProfileId": "00e4E000000QN6fQAG",
+            "NewAccountName": "N W",
+            "SetUserData": {
+                "Brand": "Three",
+                "ContactId": "0034E00000oez7cQAA",
+                "CustomerCommunityProfileId": "00e4E000000QN6fQAG",
+                "Email": "n@1234565.com"
+            },
+            "UserCreationFailed": false,
+            "UserCreationFailureDetail": "0054E000004qy0OQAQ",
+            "UserData": {
+                "Brand": "Three",
+                "ContactInfo": {
+                    "Email": "n@1234565.com",
+                    "Id": "0034E00000oez7cQAA",
+                    "LastName": "W",
+                    "Phone": ""
+                },
+                "CustomerCommunityProfileId": "00e4E000000QN6fQAG"
+            },
+            "User_1": [
+                {
+                    "Alias": "W",
+                    "Brand__c": "Three",
+                    "ContactId": "0034E00000oez7cQAA",
+                    "Email": "n@1234565.com",
+                    "EmailEncodingKey": "UTF-8",
+                    "Id": "0054E000004qy0OQAQ",
+                    "LanguageLocaleKey": "en_US",
+                    "LastName": "W",
+                    "LocaleSidKey": "en_GB",
+                    "ProfileId": "00e4E000000QN6fQAG",
+                    "TimeZoneSidKey": "Europe/London",
+                    "UpsertSuccess": true,
+                    "Username": "n@1234565.com.Three"
+                }
+            ],
+            "conId": "0034E00000oez7cQAA",
+            "error": "OK",
+            "responseType": "SObject"
+        },
+        "EmailActionPrimary": {
+            "Errors": [
+            ],
+            "Success": true
+        },
+        "SetPassword": {
+            "Error": "Password not set",
+            "SessionID ": "00D4E0000000gfo!AQkAQAz4aE0ZICSJJnnBLfGWq5z7NQDfQIYFB3z7qy5RnF0LxjXXsAmHIgj4HOAGb3AAdg9k.YEE3PONREq_.o9NA7zCIer5",
+            "error": "OK",
+            "errorCode": "INVOKE-200",
+            "setPasswordResult": "Password not set"
+        },
+        "UserFound": "false"
+    }
+}

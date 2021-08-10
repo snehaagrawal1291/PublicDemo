@@ -1,0 +1,21 @@
+{
+    "AccountId": "0019E00000C0PSYQA3",
+    "ContextId": "",
+    "id": "a1z9E000000AjzYQAS",
+    "layout": "lightning",
+    "orderAccountId": "0019E00000C0PSYQA3",
+    "orderEffectiveDate": "2017-06-20T23:00:00.000Z",
+    "orderStatus": "Draft",
+    "timeStamp": "2017-06-21T16:00:12.890Z",
+    "userId": "0050Y000001W7aoQAC",
+    "userName": "jakub.novotny@bluewolfgroup.com.three.dev01",
+    "userProfile": "System Administrator",
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+        "CreateOrder": 337,
+        "DRGetAnonymousAccount": 828,
+        "OmniScriptSessionToken": "6ea4d63b-b86b-4596-a208-ffe356151822",
+        "SetValuesForOrder": 11
+    }
+}

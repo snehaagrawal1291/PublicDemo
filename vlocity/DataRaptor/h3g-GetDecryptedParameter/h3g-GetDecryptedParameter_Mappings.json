@@ -1,0 +1,31 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Formula",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 0,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Formula",
+        "%vlocity_namespace%__FormulaOrder__c": 1,
+        "%vlocity_namespace%__FormulaResultPath__c": "SubscriptionId",
+        "%vlocity_namespace%__Formula__c": "IF(%isagentuserType%, %ContextId%, DECODE(%ContextId%))",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "h3g-GetDecryptedParameterCustom6597",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "h3g-GetDecryptedParameter",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "SubscriptionId",
+        "%vlocity_namespace%__DomainObjectFieldType__c": "String",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "SubscriptionId",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "GetDecryptedParameterCustom5576",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "h3g-GetDecryptedParameter",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]

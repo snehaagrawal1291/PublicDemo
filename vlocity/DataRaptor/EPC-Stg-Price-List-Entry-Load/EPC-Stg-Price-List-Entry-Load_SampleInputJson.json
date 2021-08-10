@@ -1,0 +1,16 @@
+{
+    "epc_stg_PriceListEntry": [
+        {
+            "Catalog_Reference__c": "ADJ_EVASION_OR_MISSELL_CLOSURE_CR_REV_PP_0.01Pand2000P_COMPLAINTS_minadjcharge",
+            "EPC_Charge_Item__c": "CHA_0.01Pounds_minAdjCharge",
+            "epc_stg_DisplayText__c": "£0.01",
+            "epc_stg_EffectiveFromDate__c": "2020-06-18T00:00:00.000Z",
+            "epc_stg_IsActive__c": true,
+            "epc_stg_IsBasePrice__c": true,
+            "epc_stg_IsOverride__c": false,
+            "epc_stg_PriceListId__c": "a2Y1l000000Kq5GEAS",
+            "epc_stg_PricingElementId__c": "ADJ_EVASION_OR_MISSELL_CLOSURE_CR_REV_PP_0.01Pand2000P_COMPLAINTS_minadjcharge",
+            "epc_stg_ProductId__c": "ADJ_EVASION_OR_MISSELL_CLOSURE_CR_REV"
+        }
+    ]
+}

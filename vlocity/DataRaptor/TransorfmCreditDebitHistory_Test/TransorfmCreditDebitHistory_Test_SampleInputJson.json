@@ -1,0 +1,84 @@
+{
+    "SubscriberEventResponse": [
+        {
+            "AgentId": "anshu.jaisinghani@three.co.uk.sitapro",
+            "Amount": "-2.00",
+            "BalanceToCharge": "prepay-usage'",
+            "Description": "Credit - billing correction",
+            "EventTime": "2021-03-01T10:54:46.690069Z",
+            "EventType": "Adjustment",
+            "NextPageTime": "2021-03-01T10:54:46.690069Z",
+            "TransactionType": "Adjustment",
+            "orderId": "8011l000002Nb7KAAS"
+        },
+        {
+            "AgentId": "anshu.jaisinghani@three.co.uk.sitapro",
+            "Amount": "-1.00",
+            "BalanceToCharge": "prepay-usage'",
+            "Description": "Credit - billing correction",
+            "EventTime": "2021-03-01T10:53:52.751885Z",
+            "EventType": "Adjustment",
+            "NextPageTime": "2021-03-01T10:53:52.751885Z",
+            "TransactionType": "Adjustment",
+            "orderId": "8011l000002Nb7KAAS"
+        },
+        {
+            "AgentId": "anshu.jaisinghani@three.co.uk.sitapro",
+            "Amount": "-2.00",
+            "BalanceToCharge": "prepay-usage'",
+            "Description": "Credit - billing correction",
+            "EventTime": "2021-03-01T10:52:05.491035Z",
+            "EventType": "Adjustment",
+            "NextPageTime": "2021-03-01T10:52:05.491035Z",
+            "TransactionType": "Adjustment",
+            "orderId": "8011l000002Nb7KAAS"
+        },
+        {
+            "AgentId": "gayathiri.mani@three.co.uk.sitapro",
+            "Amount": "-5.00",
+            "BalanceToCharge": "prepay-usage'",
+            "Description": "Credit - account not closed as expected",
+            "EventTime": "2021-03-01T10:51:27.105413Z",
+            "EventType": "Adjustment",
+            "NextPageTime": "2021-03-01T10:51:27.105413Z",
+            "TransactionType": "Adjustment",
+            "orderId": "8011l000002Nb7KAAS"
+        },
+        {
+            "Acquirer": "54",
+            "Amount": "5.00",
+            "Description": "GBP5.0,NM,GooglePlay-Handfu,helpline:02037950082",
+            "EventTime": "2021-03-01T13:16:09.533292Z",
+            "EventType": "PayForIt",
+            "NextPageTime": "2021-03-01T13:16:09.533292Z",
+            "ServiceProvider": "1234",
+            "TransactionId": "MerTrx12345",
+            "TransactionSubType": "Charge",
+            "TransactionType": "PayForIt"
+        },
+        {
+            "Acquirer": "32",
+            "Amount": "-30.00",
+            "Description": "GBP11.99,NM,GooglePlay-Bundle,helpline:02037950082",
+            "EventTime": "2021-03-01T13:15:47.742599Z",
+            "EventType": "PayForIt",
+            "NextPageTime": "2021-03-01T13:15:47.742599Z",
+            "ServiceProvider": "1234",
+            "TransactionId": "g629726932786984546",
+            "TransactionSubType": "Refund",
+            "TransactionType": "PayForIt"
+        },
+        {
+            "Acquirer": "54",
+            "Amount": "5.00",
+            "Description": "GBP5.0,NM,GooglePlay-Handfu,helpline:02037950082",
+            "EventTime": "2021-03-01T12:30:18.48072Z",
+            "EventType": "PayForIt",
+            "NextPageTime": "2021-03-01T12:30:18.48072Z",
+            "ServiceProvider": "1234",
+            "TransactionId": "MerTrx12345",
+            "TransactionSubType": "Charge",
+            "TransactionType": "PayForIt"
+        }
+    ]
+}

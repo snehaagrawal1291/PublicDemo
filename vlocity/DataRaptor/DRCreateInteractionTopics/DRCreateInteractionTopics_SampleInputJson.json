@@ -1,0 +1,14 @@
+{
+    "AccountId": "0011w00000gsfRKAAY",
+    "AddedInteractionTopics": {
+        "Formula2": null,
+        "NewMSISDN-Block": {
+            "NewMSISDN": "441987654321"
+        },
+        "NewOutcome": "Customer Not Contactable",
+        "NewReason": "Blacklisting Process",
+        "NewSubReason": "Exchange Device Not Returned",
+        "SkillSet": "Skillset_Team_Lead"
+    },
+    "ContextId": "a101w000005ZrxR"
+}

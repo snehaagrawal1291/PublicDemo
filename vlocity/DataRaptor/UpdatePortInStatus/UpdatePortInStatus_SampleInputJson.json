@@ -1,0 +1,21 @@
+{
+    "Header": {
+        "ActivityName": "updatePortStatus",
+        "CorrelationId": "20201218060559483",
+        "Destination": "CRM",
+        "MessageId": "20201218060559483",
+        "MessageType": "REQUEST",
+        "Source": "MNP",
+        "Timestamp": "2020-12-18T06:14:53.849Z"
+    },
+    "Payload": {
+        "PortStatus": {
+            "CH_ORIGIN ": "NN",
+            "CH_ROUTINGLOCATION": "TG",
+            "ExternalReferenceId": "8015E000001jPmu",
+            "MSISDN": "449898589898",
+            "PAC": "668583XET",
+            "Status": "Failure"
+        }
+    }
+}

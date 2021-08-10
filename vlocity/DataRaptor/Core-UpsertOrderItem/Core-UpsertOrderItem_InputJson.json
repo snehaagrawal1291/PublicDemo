@@ -1,0 +1,35 @@
+{
+    "CancellationReasonStep": {
+        "CancellationReason": null
+    },
+    "ContextId": null,
+    "ErrorStep": {
+    },
+    "OrderItemCanceled": {
+    },
+    "OrderItemStep": {
+        "OrderItem": null
+    },
+    "timeStamp": null,
+    "userId": null,
+    "userName": null,
+    "userProfile": null,
+    "userTimeZone": null,
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+        "CallSubmitOrder": null,
+        "CancellationReasonStep": null,
+        "DataRaptorPostAction2": null,
+        "ErrorStep": null,
+        "ExtractSubItems": null,
+        "GetAllOrderItems": null,
+        "GetUserType": null,
+        "IsUserAgent": null,
+        "OrderItemCanceled": null,
+        "OrderItemStep": null,
+        "SetOrderAndOrderItems": null,
+        "SetSubItems": null,
+        "UpdateOrderItemAndOrder": null
+    }
+}

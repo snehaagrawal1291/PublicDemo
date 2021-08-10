@@ -1,0 +1,177 @@
+{
+    "AccountContactRelId": "07k0Q000002DNeiQAG",
+    "AccountId": "0010Q00000Fjpd2",
+    "AssetAccountOwnerId": "0050Q000000MFhoQAG",
+    "AssetId": "02i0Q000000AbkxQAC",
+    "AssetOrderId": "8010Q0000004lBNQAY",
+    "AssetParentItemId": "02i0Q000000AbkuQAC",
+    "AssetStatus": "Active",
+    "AssetSubscription": "Prepaid",
+    "CaseId": "5000Q000001nbQ0QAI",
+    "ContextId": "",
+    "CustomerId": "0030Q00000B8cSWQAZ",
+    "Header": {
+        "ActivityName": "BS_136_retrieveDeviceBlacklistStatus",
+        "ActivityStatusEnum": "SUCCESS",
+        "CorrelationID": "12345",
+        "MessageId": "12345",
+        "Status": {
+            "Code": "200",
+            "Description": "OK"
+        },
+        "Timestamp": "2018-03-05T08:01:08.146Z",
+        "senderURI": "AS_SDM_003_ValidateResource_SDM",
+        "source": "Integration"
+    },
+    "IMEIStep": {
+        "IMEI": null
+    },
+    "LogicalResource": {
+        "ID": {
+            "ID": "235940200201766",
+            "Name": "IMSI",
+            "validFor": "2018-03-02T14:19:11.828Z"
+        },
+        "LogicalResourceExtension": {
+            "colourId": "black",
+            "comment": "Test",
+            "lastBAN": "1",
+            "lastIMSI": "235940200201766",
+            "lastIMSIAge": "27",
+            "lastMSISDN": "7467188998",
+            "reason": "11"
+        },
+        "eirLockedIMSI": "235940200201766",
+        "isDuplicate": "false"
+    },
+    "MSISDN": 98765432101,
+    "MyDeviceIsntHere": false,
+    "Oid": "8010Q0000004lBNQAY",
+    "OrderId": "8010Q0000004lBNQAY",
+    "OrderItemId": "8020Q0000002d0ZQAQ",
+    "OrderStatus": "Draft",
+    "REDIRECT_LINK_PATH_PART": "/apex/%vlocity_namespace%__OmniScriptUniversalPage?",
+    "SIM_REPLACEMENT_JOURNEY": "Reason=It's lost or stolen&id={0}&layout=lightning#/OmniScriptType/InLife/OmniScriptSubType/OrderReplacementSIM/OmniScriptLang/English/ContextId/{0}/PrefillDataRaptorBundle//true",
+    "SUSPEND_SIM_JOURNEY": "id={0}&layout=lightning#/OmniScriptType/InLife/OmniScriptSubType/SuspendSIM/OmniScriptLang/English/ContextId/{0}/PrefillDataRaptorBundle//true",
+    "SelectedItem": {
+        "$$hashKey": "object:197",
+        "DeviceId": "a5r0Q000000CbfaQAC",
+        "DeviceMSISDN": "98765432101",
+        "DeviceName": "ERTY",
+        "DeviceSerialNumber": "567675567567789",
+        "DeviceStatus": "Active device",
+        "IMEI": "567675567567789",
+        "RequestedOn": "2019-01-16T09:41:51.000Z"
+    },
+    "SuspendedOn": "2019-01-09T10:43:38.000Z",
+    "UNBAR_DEVICE_JOURNEY": "id={0}&layout=lightning#/OmniScriptType/InLife/OmniScriptSubType/UnbarDevice/OmniScriptLang/English/ContextId/{0}/PrefillDataRaptorBundle//true",
+    "UNSUSPEND_SIM_JOURNEY": "id={0}&layout=lightning#/OmniScriptType/InLife/OmniScriptSubType/UnsuspendSIM/OmniScriptLang/English/ContextId/{0}/PrefillDataRaptorBundle//true",
+    "devices": [
+        {
+            "$$hashKey": "object:197",
+            "DeviceId": "a5r0Q000000CbfaQAC",
+            "DeviceMSISDN": "98765432101",
+            "DeviceName": "ERTY",
+            "DeviceSerialNumber": "567675567567789",
+            "DeviceStatus": "Active device",
+            "IMEI": "567675567567789",
+            "RequestedOn": "2019-01-16T09:41:51.000Z"
+        },
+        {
+            "DeviceBarringStatus": "Empty",
+            "DeviceId": "a5r0Q000000Cbf1QAC",
+            "DeviceMSISDN": "98765432101",
+            "DeviceName": "rt",
+            "DeviceSerialNumber": "121212121212111",
+            "DeviceStatus": "Device barred",
+            "IMEI": "121212121212111",
+            "RequestedOn": "2019-01-16T09:41:51.000Z"
+        },
+        {
+            "DeviceAssetId": "02i0Q000000AbkxQAC",
+            "DeviceBarringStatus": "07k0Q000002DNeiQAG",
+            "DeviceId": "a5r0Q000000CbewQAC",
+            "DeviceMSISDN": "98765432101",
+            "DeviceName": "Manually added IMEI number",
+            "DeviceSerialNumber": "444444444444445",
+            "DeviceStatus": "Device unbarred",
+            "EstimatedTime": "0",
+            "IMEI": "444444444444445",
+            "IssueId": "00001465",
+            "RequestedOn": "2019-01-16T06:24:54.000Z",
+            "UnbarredOn": "2019-01-16T06:25:45.000Z",
+            "deviceCaseId": "5000Q000001qv45QAA",
+            "lastUsed": "2019-01-15T18:30:00.000Z"
+        },
+        {
+            "DeviceAssetId": "02i0Q000000AbkxQAC",
+            "DeviceBarringStatus": "07k0Q000002DNeiQAG",
+            "DeviceId": "a5r0Q000000CbfQQAS",
+            "DeviceMSISDN": "98765432101",
+            "DeviceName": "Manually added IMEI number",
+            "DeviceSerialNumber": "787878787878788",
+            "DeviceStatus": "Device barred",
+            "EstimatedTime": "0",
+            "IMEI": "787878787878788",
+            "IssueId": "00001468",
+            "RequestedOn": "2019-01-16T07:44:03.000Z",
+            "UnbarredOn": "2019-01-16T09:25:17.000Z",
+            "deviceCaseId": "5000Q000001qvIeQAI",
+            "lastUsed": "2019-01-15T18:30:00.000Z"
+        },
+        {
+            "DeviceAssetId": "02i0Q000000AbkxQAC",
+            "DeviceBarringStatus": "07k0Q000002DNeiQAG",
+            "DeviceId": "a5r0Q000000CbfVQAS",
+            "DeviceMSISDN": "98765432101",
+            "DeviceName": "Manually added IMEI number",
+            "DeviceSerialNumber": "676767688888888",
+            "DeviceStatus": "Device unbarred",
+            "EstimatedTime": "0",
+            "IMEI": "676767688888888",
+            "IssueId": "00001470",
+            "RequestedOn": "2019-01-16T08:43:55.000Z",
+            "UnbarredOn": "2019-01-16T08:45:25.000Z",
+            "deviceCaseId": "5000Q000001qvSZQAY",
+            "lastUsed": "2019-01-15T18:30:00.000Z"
+        },
+        {
+            "DeviceAssetId": "02i0Q000000AbkxQAC",
+            "DeviceBarringStatus": "07k0Q000002DNeiQAG",
+            "DeviceId": "a5r0Q000000CbfLQAS",
+            "DeviceMSISDN": "98765432101",
+            "DeviceName": "Manually added IMEI number",
+            "DeviceSerialNumber": "676676767676676",
+            "DeviceStatus": "Device barred",
+            "EstimatedTime": "0",
+            "IMEI": "676676767676676",
+            "IssueId": "00001466",
+            "RequestedOn": "2019-01-16T07:24:35.000Z",
+            "UnbarredOn": "2019-01-16T07:45:32.000Z",
+            "deviceCaseId": "5000Q000001qvDlQAI",
+            "lastUsed": "2019-01-15T18:30:00.000Z"
+        }
+    ],
+    "error": "OK",
+    "formattedMSISDN": "98765 432 101",
+    "id": "a1z0Q000000FpnYQAS",
+    "layout": "lightning",
+    "metadata": {
+        "BarredDeviceLimit": "6",
+        "DontGetStungWithChargesMessage1": "Before your SIM's been suspended, you'll be charged as normal - so its worth sorting out pronto. We'll cover any charges, though, upto a total of &pound;100.",
+        "DontGetStungWithChargesMessage2": "Just make sure you cancel any subscription services when you suspend your SIM, or you'll keep being charged for them.",
+        "PayAsYouGo": "Pay As You Go",
+        "PostPay": "Post Pay",
+        "TimeFrame": "10",
+        "TimeFrameHours": "1"
+    },
+    "timeStamp": "2019-01-16T09:41:47.015Z",
+    "userCurrencyCode": "GBP",
+    "userId": "0050Q000000MfbhQAC",
+    "userName": "aakbar@vlocity.com.three.vlocityb02",
+    "userProfile": "System Administrator",
+    "userTimeZone": 0,
+    "userType": "AEM",
+    "vlcPersistentComponent": {
+    }
+}

@@ -1,0 +1,68 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "OrderItem",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "@CH_PAC_CODE",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Payload:PortStatus:PAC",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "UpdatePortInOrderItemCustom9852",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "UpdatePortOrderItem",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "OrderItem",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "@CH_PORTIN_MSISDN",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Payload:PortStatus:MSISDN",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "UpdatePortInOrderItemCustom1305",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "UpdatePortOrderItem",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__ConfigurationValue__c": "FAKEMAPPING",
+        "%vlocity_namespace%__DomainObjectAPIName__c": "OrderItem",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Id",
+        "%vlocity_namespace%__FilterOperator__c": "=",
+        "%vlocity_namespace%__IsDisabled__c": true,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "UpdatePortInOrderItemCustom4527",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "UpdatePortOrderItem",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "OrderItem",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "MSISDN__c",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Payload:PortStatus:MSISDN",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "UpdatePortInOrderItemCustom6647",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "UpdatePortOrderItem",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "OrderItem",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "OrderId",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Payload:PortStatus:ExternalRefernceId",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "UpdatePortInOrderItemCustom5999",
+        "%vlocity_namespace%__UpsertKey__c": true,
+        "Name": "UpdatePortOrderItem",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]

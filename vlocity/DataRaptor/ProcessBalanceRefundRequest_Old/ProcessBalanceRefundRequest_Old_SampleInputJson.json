@@ -1,0 +1,12 @@
+{
+    "Amount": "200",
+    "PaymentDate": "2018-01-20T13:27:47.934Z",
+    "Saleschanel": "Contactcentre",
+    "StoreId": "1245678",
+    "SubId": "a5o5E000000ScZO",
+    "UnitsOfCurrency": "gbp",
+    "channel": "Contact Centre",
+    "operatorID": "0054E000004m9yF",
+    "originatingTransactionReference": "0000002855",
+    "refundType": "card"
+}

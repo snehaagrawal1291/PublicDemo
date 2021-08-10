@@ -1,0 +1,13 @@
+{
+    "Contact": {
+        "AddressLine1": "Text",
+        "City": "Text",
+        "Email": "Text",
+        "FirstName": "Text",
+        "Id": "Text",
+        "LastName": "Text",
+        "PostalCode": "Text",
+        "Salutation": "Text",
+        "State": "Text"
+    }
+}

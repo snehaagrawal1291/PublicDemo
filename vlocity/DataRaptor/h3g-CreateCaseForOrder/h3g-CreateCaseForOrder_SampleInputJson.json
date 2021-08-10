@@ -1,0 +1,18 @@
+{
+    "AccountId": "0014E000011Tjdd",
+    "AccountSubscriptionId": "a5o4E0000001k4KQAQ",
+    "AssetId": "02i5E000003Oq8Q",
+    "CaseDetail": "Maintain Port in",
+    "CaseStatus": "Open",
+    "CaseSubType": "MNP Requests",
+    "CaseType": "Post Sales Customer Management",
+    "Channel": "Primary",
+    "ContactId": "0034E00000oUvceQAC",
+    "OrderPlacementLink": "https://h3g--devb.cs84.my.salesforce.com/apex/%vlocity_namespace%__OmniScriptUniversalPage?id=&Reason=It%27s+lost+or+stolen&OrderId=8015E000000n8c5QAA&layout=lightning#/OmniScriptType/InLife/OmniScriptSubType/OrderReplacementSIM-Shipping/OmniScriptLang/English/ContextId/a5o4E0000001k4KQAQ/PrefillDataRaptorBundle//true",
+    "OwnerId": "",
+    "SlaExitDate": "2020-03-14T10:16:51.000Z",
+    "SlaStartDate": "2020-03-12T10:16:51.000Z",
+    "USIMReplacementReason": "It's lost or stolen",
+    "isSIMReplacementJourney": true,
+    "recordTypeDeveloperName": "Case"
+}

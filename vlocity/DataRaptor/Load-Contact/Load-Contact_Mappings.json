@@ -1,0 +1,42 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Contact",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "FirstName",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Select Contact Details:selectFirstName-Block:selectFirstName",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "Load ContactCustom6710",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "Load Contact",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__ConfigurationValue__c": "FAKEMAPPING",
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Contact",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Id",
+        "%vlocity_namespace%__FilterOperator__c": "=",
+        "%vlocity_namespace%__IsDisabled__c": true,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "Load ContactCustom8865",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "Load Contact",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Contact",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "LastName",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Select Contact Details:selectLastName-Block:selectLastName",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "Load ContactCustom1897",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "Load Contact",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]

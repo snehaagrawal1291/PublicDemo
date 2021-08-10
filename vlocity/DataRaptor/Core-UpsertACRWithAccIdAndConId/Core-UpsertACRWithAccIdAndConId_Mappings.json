@@ -1,0 +1,68 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "AccountContactRelation",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "AccountId",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "AccountId",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "Core-UpsertACRWithAccIdAndConIdCustom300",
+        "%vlocity_namespace%__UpsertKey__c": true,
+        "Name": "Core-UpsertACRWithAccIdAndConId",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "AccountContactRelation",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "ContactId",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "ContactId",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "Core-UpsertACRWithAccIdAndConIdCustom3245",
+        "%vlocity_namespace%__UpsertKey__c": true,
+        "Name": "Core-UpsertACRWithAccIdAndConId",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__ConfigurationValue__c": "FAKEMAPPING",
+        "%vlocity_namespace%__DomainObjectAPIName__c": "AccountContactRelation",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Id",
+        "%vlocity_namespace%__FilterOperator__c": "=",
+        "%vlocity_namespace%__IsDisabled__c": true,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "Core-UpsertACRWithAccIdAndConIdCustom3867",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "Core-UpsertACRWithAccIdAndConId",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "AccountContactRelation",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "IsActive",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "IsActive",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "Core-UpsertACRWithAccIdAndConIdCustom6116",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "Core-UpsertACRWithAccIdAndConId",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "AccountContactRelation",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Roles",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Role",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "Core-UpsertACRWithAccIdAndConIdCustom1309",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "Core-UpsertACRWithAccIdAndConId",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]

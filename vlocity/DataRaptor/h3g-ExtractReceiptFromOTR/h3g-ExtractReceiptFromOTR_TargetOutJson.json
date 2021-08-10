@@ -1,0 +1,14 @@
+{
+    "Receipt": {
+        "Last4Numbers": "Text",
+        "StoredPaymentMethodId": "Text",
+        "StoredPaymentMethodType": "Text"
+    },
+    "RefundCase": {
+        "RefundMethodBank": {
+            "BankAccountName": "Text",
+            "BankAccountNumber": "Text",
+            "SortCode": "Text"
+        }
+    }
+}

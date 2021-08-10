@@ -1,0 +1,30 @@
+{
+    "CaseNumber": "00001438",
+    "CaseReopened": true,
+    "CloseReasons": {
+        "ClosureReason": null
+    },
+    "ContextId": "",
+    "CustomerReopened": false,
+    "Customer_ClosedF": true,
+    "OutcomeF": "Closed by Customer",
+    "Priority": "Medium",
+    "RecordTypeName": "Case",
+    "Status": "Re-Opened",
+    "StatusF": "Closed",
+    "caseId": "5000Q000001noULQAY",
+    "currentContactId": "0030Q00000B91tDQAR",
+    "customerClosed": false,
+    "customerReplied": false,
+    "id": "a1z0Q000000FrjWQAS",
+    "isClosed": false,
+    "layout": "lightning",
+    "timeStamp": "2019-01-30T04:48:48.338Z",
+    "userCurrencyCode": "GBP",
+    "userId": "0050Q000000MDuWQAW",
+    "userName": "lmallidi@vlocity.com.three.vlocityb02",
+    "userProfile": "Custom Admin",
+    "userTimeZone": 0,
+    "vlcPersistentComponent": {
+    }
+}

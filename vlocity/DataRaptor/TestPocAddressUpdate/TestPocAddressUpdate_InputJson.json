@@ -1,0 +1,46 @@
+{
+    "AccountAddressType": "Shipping",
+    "AccountId": "0010Q00000KeEgH",
+    "AddressCheckStep": {
+        "CurrentAddress": {
+            "CurrentAddressCountry": "UK",
+            "CurrentAddressLine1": "202, Wood Winds Apartments, Owners Court Layout West,  Kasavanahalli",
+            "CurrentAddressLine2": "asdasd",
+            "CurrentAddressLocality": "asdasdasd",
+            "CurrentAddressPostcode": "sw1a1bb",
+            "CurrentAddressStateOrProvince": "KARNATAKA"
+        },
+        "CurrentAddressBFPO": {
+            "CurrentBFPOLocationName": "asdasd",
+            "CurrentBFPONumber": "adasdas",
+            "CurrentBFPORankName": "asdsd",
+            "CurrentBFPOUnitRegiment": "asdasd"
+        }
+    },
+    "ContactAddressType": "Mailing",
+    "ContactId": "0030Q00000F2HVj",
+    "ContextId": "",
+    "CurrentAddressInJSON": {
+        "ShippingAddress": {
+            "addressLine1": "Cathedral School of St. Saviour & St. Mary Overie",
+            "addressLine2": "Redcross Way",
+            "country": "United Kingdom",
+            "locality": "LONDON",
+            "postcode": "SE1 1HG",
+            "streetName": "Redcross Way"
+        }
+    },
+    "ModifiedAddressInJSON": {
+        "CurrentAddressCountry": "UK",
+        "CurrentAddressLine1": "202, Wood Winds Apartments, Owners Court Layout West,  Kasavanahalli",
+        "CurrentAddressLine2": "asdasd",
+        "CurrentAddressLocality": "asdasdasd",
+        "CurrentAddressPostcode": "sw1a1bb",
+        "CurrentAddressStateOrProvince": "KARNATAKA"
+    },
+    "OrderAddressType": "Shipping",
+    "OrderId": "",
+    "PMAddressType": "Billing",
+    "PaymentMethodId": "",
+    "StoreId": ""
+}

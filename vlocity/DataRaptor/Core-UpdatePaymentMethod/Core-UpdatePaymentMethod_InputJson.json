@@ -1,0 +1,9 @@
+{
+    "PaymentDetail": {
+        "PaymentMethodId": "a2Q0Q000000Ct4MUAS",
+        "StepCardDetails": {
+            "Active": true,
+            "isPrimary": true
+        }
+    }
+}

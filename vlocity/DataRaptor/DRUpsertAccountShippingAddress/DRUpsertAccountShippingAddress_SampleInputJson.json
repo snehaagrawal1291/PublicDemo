@@ -1,0 +1,46 @@
+{
+    "AccountId": "0010Q00000JSjLb",
+    "AddressCheckStep": {
+        "CurrentAddress": {
+            "CurrentAddressBuildingNumber": "6-12",
+            "CurrentAddressCountry": "United Kingdom",
+            "CurrentAddressLine1": "Woodalls",
+            "CurrentAddressLine2": "6-12 Tabard Street",
+            "CurrentAddressLocality": "LONDON",
+            "CurrentAddressPostcode": "SE1 4JU",
+            "CurrentAddressStreetName": "Tabard Street",
+            "DecomposedAddress": {
+                "addressLine1": "Woodalls",
+                "addressLine2": "6-12 Tabard Street",
+                "buildingNumber": "6-12",
+                "country": "United Kingdom",
+                "locality": "LONDON",
+                "postcode": "SE1 4JU",
+                "streetName": "Tabard Street"
+            }
+        }
+    },
+    "ContactId": "",
+    "ContextId": "0010Q00000JSjLb",
+    "CurrentAddressInJSON": {
+        "BillingAddress": {
+            "addressLine1": "Tower Bridge Primary School",
+            "addressLine2": "Fair Street",
+            "country": "United Kingdom",
+            "locality": "LONDON",
+            "postcode": "SE1 2AE",
+            "streetName": "Fair Street"
+        }
+    },
+    "ModifiedAddressInJSON": {
+        "addressLine1": "Woodalls",
+        "addressLine2": "6-12 Tabard Street",
+        "buildingNumber": "6-12",
+        "country": "United Kingdom",
+        "locality": "LONDON",
+        "postcode": "SE1 4JU",
+        "streetName": "Tabard Street"
+    },
+    "OrderId": "",
+    "StoreId": ""
+}

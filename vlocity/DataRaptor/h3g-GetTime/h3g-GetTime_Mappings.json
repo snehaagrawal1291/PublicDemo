@@ -1,0 +1,71 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Formula",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 0,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Formula",
+        "%vlocity_namespace%__FormulaOrder__c": 1,
+        "%vlocity_namespace%__FormulaResultPath__c": "CutOffStartTimeAddon",
+        "%vlocity_namespace%__Formula__c": "IF(%NextRecurringDateF% != null, (DATETIMETOUNIX( %NextRecurringDateF% )-(%CutOffTimMins% *60*1000)), '')",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "h3g-GetTimeCustom3079",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "h3g-GetTime",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Formula",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 0,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Formula",
+        "%vlocity_namespace%__FormulaOrder__c": 2,
+        "%vlocity_namespace%__FormulaResultPath__c": "CutOffStartTimeTopUp",
+        "%vlocity_namespace%__Formula__c": "IF(%TopUpConfigNextRecurringDate% != null, (DATETIMETOUNIX( %TopUpConfigNextRecurringDate% )-(%CutOffTimMins% *60*1000)), '')",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "h3g-GetTimeCustom4009",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "h3g-GetTime",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "CutOffStartTimeAddon",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "CutOffStartTimeAddon",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "h3g-GetTimeCustom6713",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "h3g-GetTime",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "CutOffStartTimeTopUp",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "CutOffStartTimeTopUp",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "h3g-GetTimeCustom8286",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "h3g-GetTime",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DefaultValue__c": "$Vlocity.NOW",
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "TodayNow",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "h3g-GetTimeCustom1641",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "h3g-GetTime",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]

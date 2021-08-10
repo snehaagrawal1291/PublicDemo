@@ -1,0 +1,45 @@
+{
+    "AccountContactRelId": "Empty",
+    "AccountId": "0015E00000qKAUiQAO",
+    "AssetId": "",
+    "BarringDate": "2020-05-18T13:42:08.000Z",
+    "BlackListedIMEINumber": "151235213512324",
+    "CaseDetail": "Blacklist Handset",
+    "CaseRecordTypeId": "",
+    "CaseStatus": "Open",
+    "CaseSubType": "Lost/Stolen Device",
+    "CaseType": "Account Security",
+    "Channel": "Primary",
+    "CustomerId": "",
+    "Description": "IMEI Number for the handset blacklisted",
+    "DeviceAssetId": "",
+    "DeviceBarringStatus": "Empty",
+    "DeviceIMEI": "151235213512324",
+    "DeviceId": "",
+    "DeviceMSISDN": "0123456789",
+    "ExtractQueueAndRecordTypeIdStatus": true,
+    "LastUsed": "2020-05-18T03:00:00.000Z",
+    "MSISDN": "0123456789",
+    "MyDeviceIsntHere": "",
+    "OwnerId": "",
+    "SelectedItemDeviceId": "",
+    "SelectedItemIMEI": "",
+    "SelectedItemMSISDN": "",
+    "SetAccountContactRelId": {
+        "AccountContactRelId": "CC Agent"
+    },
+    "SetAccountContactRelIdStatus": true,
+    "SlaStartDate": "2020-05-18T03:00:00.000Z",
+    "SubscriptionId": "a5o5E0000004OE3QAM",
+    "VlocityRootNodeNull": {
+    },
+    "emailAddress": "",
+    "mobileNumber": "",
+    "options": {
+        "chainable": false,
+        "ignoreCache": true,
+        "queueableChainable": false,
+        "resetCache": false
+    },
+    "userType": "Agent"
+}

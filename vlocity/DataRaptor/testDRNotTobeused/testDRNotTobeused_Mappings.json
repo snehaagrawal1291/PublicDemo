@@ -1,0 +1,67 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "IpResult:CreatedContact:Contact_1:FirstName",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "IPResult:CreateAccountContactUser:CreatedContact:Contact_1:FirstName",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "testDRNotTobeusedCustoma134E000002B43nQACItem0",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "testDRNotTobeused",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "IpResult:CreatedContact:Contact_1:Id",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "IPResult:CreateAccountContactUser:CreatedContact:Contact_1:Id",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "testDRNotTobeusedCustoma134E000002B43nQACItem1",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "testDRNotTobeused",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "IpResult:CreatedContact:Contact_1:LastName",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "IPResult:CreateAccountContactUser:User_1:LastName",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "testDRNotTobeusedCustoma134E000002B43nQACItem4",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "testDRNotTobeused",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "IpResult:CreatedUser:User_1:ContactId",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "IPResult:CreateAccountContactUser:User_1:ContactId",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "testDRNotTobeusedCustoma134E000002B43nQACItem2",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "testDRNotTobeused",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "IpResult:CreatedUser:User_1:Id",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "IPResult:CreateAccountContactUser:CreatedUserId",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "testDRNotTobeusedCustoma134E000002B43nQACItem5",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "testDRNotTobeused",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]

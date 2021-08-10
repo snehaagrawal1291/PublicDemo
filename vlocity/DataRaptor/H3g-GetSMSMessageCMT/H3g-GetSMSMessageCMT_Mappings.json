@@ -1,0 +1,72 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 0,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "SMSTemplate",
+        "%vlocity_namespace%__FilterGroup__c": 0,
+        "%vlocity_namespace%__FilterOperator__c": "<>",
+        "%vlocity_namespace%__FilterValue__c": "''",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Id",
+        "%vlocity_namespace%__InterfaceObjectLookupOrder__c": 1,
+        "%vlocity_namespace%__InterfaceObjectName__c": "SMS_Template__mdt",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "H3g-GetSMSMessageCMTCustom2329",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "H3g-GetSMSMessageCMT",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "SMSTemplate:formula",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "SMSTemplate:Template_Name__c",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "H3g-GetSMSMessageCMTCustom6647",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "H3g-GetSMSMessageCMT",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "SMSTemplate:name",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "SMSTemplate:fullTemplateName__c",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "H3g-GetSMSMessageCMTCustom4537",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "H3g-GetSMSMessageCMT",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "SMSTemplate:templateContent",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "SMSTemplate:Template_Content__c",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "H3g-GetSMSMessageCMTCustom1195",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "H3g-GetSMSMessageCMT",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "SMSTemplate:templateId",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "SMSTemplate:Template_Id__c",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "H3g-GetSMSMessageCMTCustom546",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "H3g-GetSMSMessageCMT",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]

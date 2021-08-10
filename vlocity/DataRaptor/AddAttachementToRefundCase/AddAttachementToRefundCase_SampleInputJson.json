@@ -1,0 +1,19 @@
+{
+    "Refund": {
+        "Amount": 20,
+        "CaseDetail": "Billing/Charging Error",
+        "CaseType": "Payments",
+        "ChequeAddress": "ad ad adda",
+        "ChequeCardDetails": "Mr Henry West",
+        "Last4Numbers": "4567",
+        "OTR": "W0000001396",
+        "PaymentMethod": "Visa",
+        "RecordType": "Case",
+        "RefundMethod": "Cheque",
+        "Status": "Re-Opened",
+        "SubType": "Refund",
+        "SubscriptionId": "",
+        "TransactionType": "PayForIt",
+        "UnitOfCurrency": "GBP"
+    }
+}

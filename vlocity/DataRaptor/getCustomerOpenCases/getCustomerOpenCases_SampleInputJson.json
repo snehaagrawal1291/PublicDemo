@@ -1,0 +1,12 @@
+{
+    "GetCurrentContactId": {
+        "currentContactId": "0030Q00000dnMmt"
+    },
+    "GetMetadataFileConfig": {
+        "error": "OK",
+        "errorCode": "INVOKE-200",
+        "metadata": {
+            "CustomerCaseTypesExcluded": "Collections"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "SubscriberEventResponse": [
+        {
+            "Acquirer": "Johny",
+            "AgentId": "123456789",
+            "Amount": "-2.0E2",
+            "Description": "PurchaseEvent",
+            "EventTime": "2017-12-07T16:51:35Z",
+            "EventType": "Topup",
+            "NextPageTime": "2017-12-07T16:51:35Z",
+            "OTR": "TRX1344645756856",
+            "ServiceProvider": "Hutch",
+            "TransactionId": "987456123",
+            "TransactionSubType": "Voucher",
+            "TransactionType": "Topup"
+        },
+        {
+            "Acquirer": "Johny",
+            "AgentId": "123456789",
+            "Amount": "-2.0E2",
+            "Description": "PurchaseEvent",
+            "EventTime": "2017-12-07T16:51:35Z",
+            "EventType": "Topup",
+            "NextPageTime": "2017-12-07T16:51:35Z",
+            "OTR": "TRX1344645756856",
+            "ServiceProvider": "Hutch",
+            "TransactionId": "987456123",
+            "TransactionSubType": "Voucher",
+            "TransactionType": "Topup"
+        },
+        {
+            "Acquirer": "Johny",
+            "AgentId": "123456789",
+            "Amount": "-2.0E2",
+            "Description": "PurchaseEvent",
+            "EventTime": "2017-12-07T16:51:35Z",
+            "EventType": "Topup",
+            "NextPageTime": "2017-12-07T16:51:35Z",
+            "OTR": "TRX1344645756856",
+            "ServiceProvider": "Hutch",
+            "TransactionId": "987456123",
+            "TransactionSubType": "Card",
+            "TransactionType": "Topup"
+        }
+    ]
+}

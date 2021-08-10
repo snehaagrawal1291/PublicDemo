@@ -1,0 +1,35 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 0,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Oppty",
+        "%vlocity_namespace%__FilterGroup__c": 0,
+        "%vlocity_namespace%__FilterOperator__c": "=",
+        "%vlocity_namespace%__FilterValue__c": "OpptyId",
+        "%vlocity_namespace%__GlobalKey__c": "31facb63-d3f4-2c49-5136-6f0a714708c5",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "OpportunityId",
+        "%vlocity_namespace%__InterfaceObjectLookupOrder__c": 1,
+        "%vlocity_namespace%__InterfaceObjectName__c": "OpportunityContactRole",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "GrandParentCustom6372",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "GrandParent",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Oppty:Opportunity:Account:Name",
+        "%vlocity_namespace%__GlobalKey__c": "f34883f2-e994-961b-3311-7658112c8ca7",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Oppty:Opportunity.Account.Name",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "GrandParentCustom4291",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "GrandParent",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]

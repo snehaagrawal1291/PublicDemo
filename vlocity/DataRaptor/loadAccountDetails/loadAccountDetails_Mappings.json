@@ -1,0 +1,58 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Contact",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "AccountId",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Contact:AccountNumber",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__LookupDomainObjectFieldName__c": "Account_Number__c",
+        "%vlocity_namespace%__LookupDomainObjectName__c": "Account",
+        "%vlocity_namespace%__LookupDomainObjectRequestedFieldName__c": "Id",
+        "%vlocity_namespace%__MapId__c": "loadAccountDetailsCustom3043",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "loadAccountDetails",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Contact",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "FirstName",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Contact:FirstName",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "loadAccountDetailsCustom3322",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "loadAccountDetails",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__ConfigurationValue__c": "FAKEMAPPING",
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Contact",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Id",
+        "%vlocity_namespace%__FilterOperator__c": "=",
+        "%vlocity_namespace%__IsDisabled__c": true,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "loadAccountDetailsCustom9759",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "loadAccountDetails",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Contact",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "LastName",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Contact:LastName",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "loadAccountDetailsCustom2418",
+        "%vlocity_namespace%__UpsertKey__c": true,
+        "Name": "loadAccountDetails",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]

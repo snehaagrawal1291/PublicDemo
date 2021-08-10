@@ -1,0 +1,98 @@
+{
+    "Accounts": {
+        "Account": [
+            {
+                "AccountNumber": "2000001652",
+                "Type": "Business"
+            },
+            {
+                "AccountNumber": "2000001652",
+                "Type": "Consumer"
+            },
+            {
+                "AccountNumber": "2000001632",
+                "Type": "Service"
+            }
+        ]
+    },
+    "CaseNumber": "00001958",
+    "Channel": "IVR",
+    "CustomerInteractionTopic": [
+        {
+            "Account": [
+                {
+                    "AccountNumber": "2000001652",
+                    "Type": "Business"
+                },
+                {
+                    "AccountNumber": "2000001652",
+                    "Type": "Consumer"
+                },
+                {
+                    "AccountNumber": "2000001632",
+                    "Type": "Service"
+                }
+            ],
+            "Adjustment": 103,
+            "CaseNumber": "00001011",
+            "ExternalID": "A00187364",
+            "LTR": "Medallia",
+            "MSISDN": "447887340000",
+            "MedalliaURL": "Medallia URL",
+            "OrderNumber": "00000744",
+            "Payment": 2000,
+            "Reason": "Reason",
+            "SubReason": "Sub Reason",
+            "SubscriptionNumber": "1000039987",
+            "SurveyChannel": "Contact Centre",
+            "SurveyNumber": "000543",
+            "SurveyresponseDate": "1978-02-09",
+            "TransactionID": "838498384",
+            "TransactionStatus": "Success"
+        },
+        {
+            "Account": [
+                {
+                    "AccountNumber": "2000001652",
+                    "Type": "Business"
+                },
+                {
+                    "AccountNumber": "2000001652",
+                    "Type": "Consumer"
+                },
+                {
+                    "AccountNumber": "2000001632",
+                    "Type": "Service"
+                }
+            ],
+            "Adjustment": 103,
+            "CaseNumber": "00001011",
+            "ExternalID": "A00187364",
+            "LTR": "Medallia",
+            "MSISDN": "447887340000",
+            "MedalliaURL": "Medallia URL",
+            "OrderNumber": "00000744",
+            "Payment": 2000,
+            "Reason": "Reason",
+            "SubReason": "Sub Reason",
+            "SubscriptionNumber": "1000779987",
+            "SurveyChannel": "Contact Centre",
+            "SurveyNumber": "000543",
+            "SurveyresponseDate": "1978-02-09",
+            "TransactionID": "838498384",
+            "TransactionStatus": "Success"
+        }
+    ],
+    "Description": "Call",
+    "Duration": 200,
+    "EndTime": "2019-01-22T00:42:11.039Z",
+    "ExternalID": "281984",
+    "MSISDN": "447887340000",
+    "StartTime": "2019-01-22T08:34:05.927Z",
+    "Status": "Completed",
+    "SubscriptionNumber": "10000399",
+    "Type": "Call",
+    "VerificationTimestamp": "2019-01-22T00:42:11.039Z",
+    "Verified": true,
+    "VerifiedAgentName": "Cersei Geller"
+}

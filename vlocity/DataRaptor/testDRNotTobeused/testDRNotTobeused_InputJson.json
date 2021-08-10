@@ -1,0 +1,187 @@
+{
+    "IPResult": {
+        "CheckUniqueUsername": {
+            "UsernameUniquenessResultMap": {
+                "isEmailUsernameUsed": true
+            },
+            "error": "OK",
+            "errorCode": "INVOKE-200"
+        },
+        "CreateAccountContactUser": {
+            "AccountContactRelationData": {
+                "AccountId": "0010Q00000FkOEKQA3",
+                "ContactInfo": [
+                    {
+                        "AccountId": "0010Q00000FkOEKQA3",
+                        "Birthdate": "1990-11-11",
+                        "Email": "12322@gmail.com",
+                        "FirstName": "asdasd",
+                        "Id": "0030Q00000B8yMcQAJ",
+                        "LastName": "asdasp",
+                        "MobilePhone": "441231232232",
+                        "Title": "Mr",
+                        "UpsertSuccess": true
+                    }
+                ]
+            },
+            "AccountData": {
+                "BusinessType": "Sole Trader",
+                "CustClassification": "Residential",
+                "Name": "temp",
+                "PreferredPaymentDay": "",
+                "RecordTypeId": "0120Y000000dM2RQAU",
+                "RegistrationNumber": "",
+                "ReportLevel": "Invoice",
+                "Status": "Active",
+                "VATNumber": ""
+            },
+            "AccountRecordType": {
+                "Id": "0120Y000000dM2RQAU"
+            },
+            "ContactData": {
+                "AccountId": "0010Q00000FkOEKQA3",
+                "ContactInfo": {
+                    "AutoPaymentMethodId": "Cash",
+                    "ContactId": "",
+                    "DOB": "1990-11-11T00:00:00+05:30",
+                    "Disability": "None",
+                    "Email": "12322@gmail.com",
+                    "FirstName": "asdasd",
+                    "Fraud": "0",
+                    "LastName": "asdasp",
+                    "MobilePhone": "441231232232",
+                    "PartyId": "",
+                    "PaymentMethod": "",
+                    "Role": "Payer",
+                    "Status": "Active",
+                    "Title": "Mr",
+                    "VIP": false
+                }
+            },
+            "CreatedAccount": {
+                "Account_1": [
+                    {
+                        "%vlocity_namespace%__Status__c": "Active",
+                        "Id": "0010Q00000FkOEKQA3",
+                        "Name": "temp",
+                        "RecordTypeId": "0120Y000000dM2RQAU",
+                        "ReportLevel__c": "Invoice",
+                        "UpsertSuccess": true,
+                        "custClassification__c": "Residential"
+                    }
+                ],
+                "error": "OK",
+                "responseType": "SObject"
+            },
+            "CreatedContact": {
+                "Contact_1": [
+                    {
+                        "AccountId": "0010Q00000FkOEKQA3",
+                        "Birthdate": "1990-11-11",
+                        "Email": "12322@gmail.com",
+                        "FirstName": "asdasd",
+                        "Id": "0030Q00000B8yMcQAJ",
+                        "LastName": "asdasp",
+                        "MobilePhone": "441231232232",
+                        "Title": "Mr",
+                        "UpsertSuccess": true
+                    }
+                ],
+                "error": "OK",
+                "responseType": "SObject"
+            },
+            "CreatedUser": {
+                "User_1": [
+                    {
+                        "Alias": "asdasp",
+                        "ContactId": "0030Q00000B8yMcQAJ",
+                        "Email": "12322@gmail.com",
+                        "EmailEncodingKey": "UTF-8",
+                        "FirstName": "asdasd",
+                        "Id": "0050Q000000O0pwQAC",
+                        "LanguageLocaleKey": "en_US",
+                        "LastName": "asdasp",
+                        "LocaleSidKey": "en_GB",
+                        "MobilePhone": "441231232232",
+                        "ProfileId": "00e0E000000DscHQAS",
+                        "TimeZoneSidKey": "Europe/London",
+                        "UpsertSuccess": true,
+                        "Username": "12322@gmail.com"
+                    }
+                ],
+                "error": "OK",
+                "responseType": "SObject"
+            },
+            "CustomerCommunityProfile": {
+                "Id": "00e0E000000DscHQAS"
+            },
+            "UserData": {
+                "ContactInfo": [
+                    {
+                        "AccountId": "0010Q00000FkOEKQA3",
+                        "Birthdate": "1990-11-11",
+                        "Email": "12322@gmail.com",
+                        "FirstName": "asdasd",
+                        "Id": "0030Q00000B8yMcQAJ",
+                        "LastName": "asdasp",
+                        "MobilePhone": "441231232232",
+                        "Title": "Mr",
+                        "UpsertSuccess": true
+                    }
+                ],
+                "CustomerCommunityProfileId": "00e0E000000DscHQAS"
+            },
+            "result": {
+                "User_1": [
+                    {
+                        "Alias": "aiop",
+                        "ContactId": "0030Q00000B8yOcQAJ",
+                        "Email": "12322@gmail.com",
+                        "EmailEncodingKey": "UTF-8",
+                        "FirstName": "asdasd",
+                        "LanguageLocaleKey": "en_US",
+                        "LastName": "aiop",
+                        "LocaleSidKey": "en_GB",
+                        "MobilePhone": "441232323232",
+                        "ProfileId": "00e0E000000DscHQAS",
+                        "TimeZoneSidKey": "Europe/London",
+                        "UpsertError": "Duplicate Username.<br>The username already exists in this or another Salesforce organization. Usernames must be unique across all Salesforce organizations. To resolve, use a different username (it doesn't need to match the user's email address).  ",
+                        "UpsertSuccess": false,
+                        "Username": "12322@gmail.com"
+                    }
+                ],
+                "error": true,
+                "errors": {
+                    "DRUpsertUser": {
+                        "3:0": {
+                            "1": "Duplicate Username.<br>The username already exists in this or another Salesforce organization. Usernames must be unique across all Salesforce organizations. To resolve, use a different username (it doesn't need to match the user's email address).  "
+                        }
+                    }
+                },
+                "errorsAsJson": {
+                    "UserData": {
+                        "ContactInfo": [
+                            {
+                                "AccountId": "",
+                                "Birthdate": "",
+                                "Email": "Duplicate Username.<br>The username already exists in this or another Salesforce organization. Usernames must be unique across all Salesforce organizations. To resolve, use a different username (it doesn't need to match the user's email address). ",
+                                "FirstName": "",
+                                "Id": "",
+                                "LastName": "",
+                                "MobilePhone": "",
+                                "Title": "",
+                                "UpsertSuccess": ""
+                            }
+                        ],
+                        "CustomerCommunityProfileId": "",
+                        "Email": "Duplicate Username.<br>The username already exists in this or another Salesforce organization. Usernames must be unique across all Salesforce organizations. To resolve, use a different username (it doesn't need to match the user's email address). "
+                    }
+                },
+                "responseType": "SObject"
+            },
+            "success": false
+        },
+        "EmailActionPrimary": "",
+        "SetPassword": ""
+    }
+}

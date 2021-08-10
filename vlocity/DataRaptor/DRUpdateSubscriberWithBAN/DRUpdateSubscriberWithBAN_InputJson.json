@@ -1,0 +1,7 @@
+{
+    "DataToUpdateSubscriberWithBAN": {
+        "BAN": "%BillingAccountNumber%",
+        "ISID": "%SimCardOrderItem:Id%",
+        "SubscriberId": "%Subscription:Id%"
+    }
+}

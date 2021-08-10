@@ -1,0 +1,77 @@
+{
+    "Epc_Stg_RuleAssignment": [
+        {
+            "Name": "OFF_36002_RS_RetailChannel",
+            "epc_stg_ProductObjectId__c": "OFF_36002"
+        },
+        {
+            "Name": "OFF_36007_RS_WebChannel",
+            "epc_stg_ProductObjectId__c": "OFF_36007"
+        },
+        {
+            "Name": "OFF_12GB_ADD-ON_MONTHLY_DisallowBundleRuleSet",
+            "epc_stg_ProductObjectId__c": "OFF_12GB_ADD-ON_MONTHLY",
+            "epc_stg_RuleId__c": "a321l000000BIuJAAW"
+        },
+        {
+            "Name": "OFF_2GB_ADD-ON_MONTHLY_DisallowBundleRuleSet",
+            "epc_stg_ProductObjectId__c": "OFF_2GB_ADD-ON_MONTHLY",
+            "epc_stg_RuleId__c": "a321l000000BIuJAAW"
+        },
+        {
+            "Name": "OFF_36GB_PAYG_ADD-ON_MONTHLY_DisallowBundleRuleSet",
+            "epc_stg_ProductObjectId__c": "OFF_36GB_PAYG_ADD-ON_MONTHLY",
+            "epc_stg_RuleId__c": "a321l000000BIuJAAW"
+        },
+        {
+            "Name": "OFF_5GB_ADD-ON_MONTHLY_DisallowBundleRuleSet",
+            "epc_stg_ProductObjectId__c": "OFF_5GB_ADD-ON_MONTHLY",
+            "epc_stg_RuleId__c": "a321l000000BIuJAAW"
+        },
+        {
+            "Name": "OFF_UNLIMITED_ADD-ON_35_PAYG_MONTHLY_DisallowBundleRuleSet",
+            "epc_stg_ProductObjectId__c": "OFF_UNLIMITED_ADD-ON_35_PAYG_MONTHLY",
+            "epc_stg_RuleId__c": "a321l000000BIuJAAW"
+        },
+        {
+            "Name": "OFF_1GB_PAYG_BOOST_MONTHLY_BoostEvaluationRuleSet",
+            "epc_stg_ProductObjectId__c": "OFF_1GB_PAYG_BOOST_MONTHLY",
+            "epc_stg_RuleId__c": "a321l000000BIu9AAG"
+        },
+        {
+            "Name": "OFF_3GB_PAYG_BOOST_MONTHLY_BoostEvaluationRuleSet",
+            "epc_stg_ProductObjectId__c": "OFF_3GB_PAYG_BOOST_MONTHLY",
+            "epc_stg_RuleId__c": "a321l000000BIu9AAG"
+        },
+        {
+            "Name": "OFF_6GB_PAYG_BOOST_MONTHLY_BoostEvaluationRuleSet",
+            "epc_stg_ProductObjectId__c": "OFF_6GB_PAYG_BOOST_MONTHLY",
+            "epc_stg_RuleId__c": "a321l000000BIu9AAG"
+        },
+        {
+            "Name": "OFF_UNLIMITED_PAYG_BOOST_DAILY_BoostEvaluationRuleSet",
+            "epc_stg_ProductObjectId__c": "OFF_UNLIMITED_PAYG_BOOST_DAILY",
+            "epc_stg_RuleId__c": "a321l000000BIu9AAG"
+        },
+        {
+            "Name": "OFF_UNLIMITED_ADD-ON_90_PAYGMONTHLY_DisallowBundleRuleSet",
+            "epc_stg_ProductObjectId__c": "OFF_UNLIMITED_ADD-ON_90_PAYGMONTHLY",
+            "epc_stg_RuleId__c": "a321l000000BIuJAAW"
+        },
+        {
+            "Name": "OFF_10GB_ADD-ON_MONTHLY_DisallowBundleRuleSet",
+            "epc_stg_ProductObjectId__c": "OFF_10GB_ADD-ON_MONTHLY",
+            "epc_stg_RuleId__c": "a321l000000BIuJAAW"
+        },
+        {
+            "Name": "OFF_20GB_ADD-ON_MONTHLY_DisallowBundleRuleSet",
+            "epc_stg_ProductObjectId__c": "OFF_20GB_ADD-ON_MONTHLY",
+            "epc_stg_RuleId__c": "a321l000000BIuJAAW"
+        },
+        {
+            "Name": "OFF_40GB_ADD-ON_MONTHLY_DisallowBundleRuleSet",
+            "epc_stg_ProductObjectId__c": "OFF_40GB_ADD-ON_MONTHLY",
+            "epc_stg_RuleId__c": "a321l000000BIuJAAW"
+        }
+    ]
+}

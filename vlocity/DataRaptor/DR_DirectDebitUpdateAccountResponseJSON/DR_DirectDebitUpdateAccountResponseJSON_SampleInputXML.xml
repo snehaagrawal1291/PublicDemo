@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tns4="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/common" >
+    <soapenv:Body>
+        <tns4:UpdateAccountResponse xmlns:ns="https://xmlns.three.co.uk/xsd/accountmanagementservices/manageaccount/v1" xmlns:ns1="https://xmlns.three.co.uk/xsd/accountmanagementservices/manageaccount/v1" xmlns:tns4="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/common"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns19="http://xmlns.three.co.uk/wsdl/accountmanagementservices/updateaccount/v1">
+            <ns1:Header>
+                <ns:CorrelationId_T>6b7128e7-a3f6-417d-8481-ec6586689c91</ns:CorrelationId_T>
+                <ns:ActivityName_T>BS_215-UpdateAccount</ns:ActivityName_T>
+                <ns:MsgType_T>RESPONSE</ns:MsgType_T>
+                <ns:Source>Payment Manager</ns:Source>
+                <ns:ActivityStatusEnum_T>SUCCESS</ns:ActivityStatusEnum_T>
+                <ns:ActivityStatus_T>200 OK</ns:ActivityStatus_T>
+                <ns:MessageId>a287fe4d-8c4c-4626-aae1-f26fd0440d05</ns:MessageId>
+                <ns:Timestamp>2018-10-01T10:56:28.357Z</ns:Timestamp>
+                <ns:ProviderInfo>
+                    <ns:name>b287fe4d-8c4c-4626-aae1-f26fd0440d05 - UpdateAccount</ns:name>
+                    <ns:valueType>200</ns:valueType>
+                    <ns:description>OK</ns:description>
+                </ns:ProviderInfo>
+                <ns:ProviderInfo>
+                    <ns:id>
+                        <ns:id>c287fe4d-8c4c-4626-aae1-f26fd0440d05 - UpdateAccount</ns:id>
+                    </ns:id>
+                    <ns:name>200</ns:name>
+                    <ns:description>OK</ns:description>
+                </ns:ProviderInfo>
+                <ns:ConsumerInfo>
+                    <ns:id>
+                        <ns:id>a287fe4d-8c4c-4626-aae1-f26fd0440d05 - BS_215-UpdateAccount</ns:id>
+                    </ns:id>
+                    <ns:name>200</ns:name>
+                    <ns:description>OK</ns:description>
+                </ns:ConsumerInfo>
+            </ns1:Header>
+            <ns1:Payload></ns1:Payload>
+        </tns4:UpdateAccountResponse >
+    </soapenv:Body>
+</soapenv:Envelope>

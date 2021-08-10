@@ -1,0 +1,32 @@
+{
+    "ContextId": null,
+    "SetUpDirectDebit": {
+        "AccountName": null,
+        "AccountNumber": null,
+        "AgreeTerms": null,
+        "BankBuildingSociety": null,
+        "DirectDebitSafeguard": null,
+        "SortCode": null
+    },
+    "SetYourPayment": {
+        "PaymentDetails": {
+            "CVV": 666,
+            "CardNumber": 1111333356568888,
+            "ExpiryMonth": "03",
+            "ExpiryYear": 2020,
+            "NameonCard": "Mervin Moose"
+        }
+    },
+    "timeStamp": null,
+    "userId": null,
+    "userName": null,
+    "userProfile": null,
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+        "GetPaymentMethod": null,
+        "SetAccountId": null,
+        "SetDefaultValues": null,
+        "SetUpDirectDebit": null
+    }
+}

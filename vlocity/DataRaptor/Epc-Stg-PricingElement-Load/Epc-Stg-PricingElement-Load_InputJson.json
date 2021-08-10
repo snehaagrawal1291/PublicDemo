@@ -1,0 +1,22 @@
+{
+    "epc_stg_PricingElement": [
+        {
+            "Catalog_Reference__c": "OFF_APPLIE8_64GBG_Apple864GBG_one time charge",
+            "EPC_Charge_Item__c": "Text",
+            "TotalCycles__c": 1,
+            "epc_stg_Amount__c": 900,
+            "epc_stg_CalculationType__c": "Simple",
+            "epc_stg_Code__c": "OFF_APPLIE8_64GBG_one time charge",
+            "epc_stg_CurrencyCode__c": "GBP",
+            "epc_stg_DisplayText__c": "£900.00",
+            "epc_stg_EffectiveFromDate__c": "2019-05-09T14:06:23.000Z",
+            "epc_stg_EffectiveUntilDate__c": "Text",
+            "epc_stg_IsActive__c": true,
+            "epc_stg_IsReusable__c": true,
+            "epc_stg_ObjectTypeId__c": "a1p0E000000e7pkQAA",
+            "epc_stg_PriceListId__c": "a2Y0E0000001VoyUAE",
+            "epc_stg_PricingVariableId__c": "a2d0E0000009HrNQAU",
+            "epc_stg_Version__c": "Apr29_1_2019v2"
+        }
+    ]
+}

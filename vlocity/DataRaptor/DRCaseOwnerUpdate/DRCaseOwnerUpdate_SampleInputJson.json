@@ -1,0 +1,33 @@
+{
+    "ContextId": "5009E000004PtI9",
+    "SelectNewOwner": {
+        "OwnerId": "00G9E000000GOIfUAO",
+        "newOwner-Block": {
+            "newOwner": "Adrian Gracie"
+        },
+        "queueSelect": "00G9E000000GOIfUAO",
+        "selectOwnerType": "Queue"
+    },
+    "caseOwner": {
+        "Name": "Luke Potter",
+        "OwnerId": "0059E000000dqevQAA",
+        "ProfileId": "00e0Y000001FxZRQA0",
+        "UserType": "Standard"
+    },
+    "id": "a1z9E000000AJjeQAG",
+    "layout": "lightning",
+    "newOwner-Block": {
+        "caseOwnerId": "0050Y000000kFyIQAU"
+    },
+    "testContextId": "5009E000004PtI9",
+    "timeStamp": "2017-06-13T08:08:10.772Z",
+    "userId": "0059E000000f3qwQAA",
+    "userName": "kyagah@vlocity.com.three.dev01",
+    "userProfile": "System Administrator",
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+        "GetCaseInfo": 608,
+        "OmniScriptSessionToken": "e3c25473-4bfc-464b-9635-5dca5f147a00"
+    }
+}

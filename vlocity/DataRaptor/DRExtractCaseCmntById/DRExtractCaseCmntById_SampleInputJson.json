@@ -1,0 +1,169 @@
+{
+    "CaseDetails": {
+        "FileUpload": [
+            {
+                "$$hashKey": "object:171",
+                "data": "a7f8f5b8-9fb2-4fd0-8ce4-a5a4fced1bad",
+                "filename": "Screen Shot 2018-02-27 at 2.26.18 PM.png",
+                "size": 126578
+            }
+        ],
+        "PerFileMaximumSizeFormula": true,
+        "Title": "undefined undefined",
+        "TotalFileSizeFormula": 126578,
+        "isAttachmentEmpty": false,
+        "isClosed": false,
+        "reopenEligibility": true,
+        "reply": "test5"
+    },
+    "ContextId": "",
+    "CreateContentVersion": {
+        "ContentVersion_1": [
+            {
+                "Id": "0680Q000000DayqQAC",
+                "PathOnClient": "Screen Shot 2018-02-27 at 2.26.18 PM.png",
+                "Title": "Screen Shot 2018-02-27 at 2.26.18 PM.png",
+                "UpsertSuccess": true
+            }
+        ],
+        "error": "OK",
+        "responseType": "SObject"
+    },
+    "CreateContentVersionStatus": true,
+    "DRCreateCaseComment": {
+        "CaseComment_1": [
+            {
+                "CommentBody": "test5",
+                "Id": "00a0Q000000BM8CQAW",
+                "IsPublished": true,
+                "ParentId": "5000Q000001nW7NQAU",
+                "UpsertSuccess": true
+            }
+        ],
+        "error": "OK",
+        "responseType": "SObject"
+    },
+    "DRCreateCaseCommentStatus": true,
+    "DRCreateContentDocLink": {
+        "ContentDocumentLink_1": [
+            {
+                "ContentDocumentId": "0690Q000000Db3DQAS",
+                "Id": "06A0Q000000ESPAUA4",
+                "LinkedEntityId": "5000Q000001nW7NQAU",
+                "ShareType": "V",
+                "UpsertSuccess": true
+            }
+        ],
+        "error": "OK",
+        "responseType": "SObject"
+    },
+    "DRCreateContentDocLinkStatus": true,
+    "DRGetContentDistributionLink": [
+    ],
+    "DRGetContentDistributionLinkStatus": true,
+    "ExtractCaseCommentsStatus": true,
+    "GetContentDocumentId": {
+        "ContentDocId": "0690Q000000Db3DQAS"
+    },
+    "GetContentDocumentIdStatus": true,
+    "ResponseAction1Status": true,
+    "caseId": "5000Q000001nW7N",
+    "error": "OK",
+    "id": "a1z0Q000000Fp5wQAC",
+    "layout": "lightning",
+    "listData": {
+        "Case": {
+            "Comment": [
+                {
+                    "$$hashKey": "object:180",
+                    "commentBody": "tyyy",
+                    "commentedDate": "2019-01-21T11:15:23.000Z",
+                    "createdByName": "Lakshmi Mallidi"
+                },
+                {
+                    "$$hashKey": "object:181",
+                    "commentBody": "comment alone",
+                    "commentedDate": "2019-01-21T11:09:40.000Z",
+                    "createdByName": "Lakshmi Mallidi"
+                },
+                {
+                    "$$hashKey": "object:182",
+                    "commentBody": "test2",
+                    "commentedDate": "2019-01-21T10:02:55.000Z",
+                    "createdByName": "Mitulika Sarkar"
+                },
+                {
+                    "$$hashKey": "object:183",
+                    "commentBody": "test1",
+                    "commentedDate": "2019-01-21T10:00:54.000Z",
+                    "createdByName": "Mitulika Sarkar"
+                },
+                {
+                    "$$hashKey": "object:184",
+                    "commentBody": "test5",
+                    "commentedDate": "2019-01-21T11:17:57.000Z",
+                    "createdByName": "Lakshmi Mallidi"
+                },
+                {
+                    "$$hashKey": "object:185",
+                    "commentBody": "tyyy",
+                    "commentedDate": "2019-01-21T11:15:23.000Z",
+                    "createdByName": "Lakshmi Mallidi"
+                },
+                {
+                    "$$hashKey": "object:186",
+                    "commentBody": "comment alone",
+                    "commentedDate": "2019-01-21T11:09:40.000Z",
+                    "createdByName": "Lakshmi Mallidi"
+                },
+                {
+                    "$$hashKey": "object:187",
+                    "commentBody": "test2",
+                    "commentedDate": "2019-01-21T10:02:55.000Z",
+                    "createdByName": "Mitulika Sarkar"
+                },
+                {
+                    "$$hashKey": "object:188",
+                    "commentBody": "test1",
+                    "commentedDate": "2019-01-21T10:00:54.000Z",
+                    "createdByName": "Mitulika Sarkar"
+                }
+            ],
+            "RecordType": {
+                "Name": "Case"
+            },
+            "RecordTypeId": "0120E0000003c4SQAQ",
+            "caseDetail": "Bar Device 1234567890",
+            "caseNumber": "00001362",
+            "caseStatus": "Re-Opened",
+            "createdDate": "2019-01-08T08:12:46.000Z",
+            "isClosed": false,
+            "lastModifiedDate": "2019-01-08T08:12:46.000Z"
+        }
+    },
+    "metadata": {
+        "FileSize": "10000",
+        "FileType": "image/jpeg,image/png,application/pdf,application/docx",
+        "TotalFileSize": "100000",
+        "complaintReopDays": "56",
+        "nonComplntReopDays": "14"
+    },
+    "options": {
+        "chainable": false,
+        "postTransformBundle": "",
+        "preTransformBundle": "",
+        "useContinuation": false,
+        "useFuture": false,
+        "vlcClass": "%vlocity_namespace%.IntegrationProcedureService"
+    },
+    "response": {
+    },
+    "timeStamp": "2019-01-21T11:17:33.332Z",
+    "userCurrencyCode": "GBP",
+    "userId": "0050Q000000MDuWQAW",
+    "userName": "lmallidi@vlocity.com.three.vlocityb02",
+    "userProfile": "Custom Admin",
+    "userTimeZone": 0,
+    "vlcPersistentComponent": {
+    }
+}

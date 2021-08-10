@@ -1,0 +1,65 @@
+{
+    "Header": {
+        "ActivityName": "CreateCustomerInteractions",
+        "CorrelationId": "93a3834e-6f7f-4d46-8d7a-7759dcc13dc5",
+        "MessageType": "REQUEST",
+        "TimeStamp": "2020-03-20T13:56:18.568Z"
+    },
+    "Payload": {
+        "CustomerInteraction": {
+            "Accounts": {
+                "Account": [
+                    {
+                        "AccountNumber": "",
+                        "Type": "Billing"
+                    }
+                ]
+            },
+            "Channel": "Web",
+            "ContactMethod": "Automated",
+            "CustomerInteractionTopic": [
+                {
+                    "Account": [
+                        {
+                            "AccountNumber": "",
+                            "Type": "Billing"
+                        }
+                    ],
+                    "ExternalID": "",
+                    "InteractionOutcome": "Agreed to Self Serve",
+                    "MSISDN": "447533100520",
+                    "Payment": 5,
+                    "Reason": "Want To Top Up",
+                    "SubReason": "Setup Auto Top Up",
+                    "SubscriptionNumber": ""
+                },
+                {
+                    "Account": [
+                        {
+                            "AccountNumber": "",
+                            "Type": "Billing"
+                        }
+                    ],
+                    "ExternalID": "",
+                    "InteractionOutcome": "failed",
+                    "MSISDN": "447533100520",
+                    "Payment": 5,
+                    "Reason": "Want To Top Up",
+                    "SubReason": "Setup Auto Top Up",
+                    "SubscriptionNumber": ""
+                }
+            ],
+            "Description": "Test Data updated by Kalyan",
+            "Duration": "0",
+            "EndTime": "2020-04-30T09:53:22.857Z",
+            "MSISDN": "447533100520",
+            "StartTime": "2020-04-30T09:53:22.857Z",
+            "Status": "Completed",
+            "SubscriptionNumber": "",
+            "Type": "Inbound",
+            "VerificationTimestamp": "2020-03-20T09:53:22.857Z",
+            "Verified": true,
+            "VerifiedAgentName": "ABC"
+        }
+    }
+}

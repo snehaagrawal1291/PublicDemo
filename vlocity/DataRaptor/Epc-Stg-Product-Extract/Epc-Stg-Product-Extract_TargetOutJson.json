@@ -1,0 +1,37 @@
+{
+    "epc_stg_Product2__c": {
+        "Catalog_Reference__c": "Text",
+        "Description__c": "Text",
+        "EPC_Offering_Classification__c": "Text",
+        "ExtnProdCategory__c": "Text",
+        "IsActive__c": "Text",
+        "IsRPI__c": "Text",
+        "IsShippable__c": "Text",
+        "JSON": {
+        },
+        "MatrixId__c": "Text",
+        "Name": "Text",
+        "Pre_order_date__c": "Text",
+        "Pre_order_flag__c": "Text",
+        "PricePlan_Specification_Id__c": "Text",
+        "ProductCode__c": "Text",
+        "Product_Specification__c": "Text",
+        "Service_Provider__c": "Text",
+        "Store_Inventory__c": "Text",
+        "epc_stg_EffectiveDate__c": "Text",
+        "epc_stg_EndDate__c": "Text",
+        "epc_stg_IsConfigurable__c": "Text",
+        "epc_stg_IsOrderable__c": "Text",
+        "epc_stg_Manufacturer__c": "Text",
+        "epc_stg_ObjectTypeId__c": "Text",
+        "epc_stg_Quantity__c": "Text",
+        "epc_stg_SpecificationType__c": "Text",
+        "epc_stg_Status__c": "Text",
+        "epc_stg_SubType__c": "Text",
+        "epc_stg_Type__c": "Text",
+        "epc_stg_UICategory__c": "Text",
+        "epc_stg_Version__c": "Text",
+        "epc_stg_barCode__c": "Text",
+        "epc_stg_itemNumber__c": "Text"
+    }
+}

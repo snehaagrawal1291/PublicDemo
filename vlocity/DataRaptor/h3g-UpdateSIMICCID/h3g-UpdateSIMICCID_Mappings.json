@@ -1,0 +1,69 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Formula",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 0,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Formula",
+        "%vlocity_namespace%__FormulaOrder__c": 1,
+        "%vlocity_namespace%__FormulaResultPath__c": "CurrentDate",
+        "%vlocity_namespace%__Formula__c": "TODAY()",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "h3g-UpdateSIMICCIDCustom2304",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "h3g-UpdateSIMICCID",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "OrderItem",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "@CH_SIM_SERIAL",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "ICCID",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "h3g-UpdateSIMICCIDCustoma130Q000000CpjKQASItem4",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "h3g-UpdateSIMICCID",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "OrderItem",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "ActivationDate__c",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "CurrentDate",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "h3g-UpdateSIMICCIDCustom5727",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "h3g-UpdateSIMICCID",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "OrderItem",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "ICCID__c",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "ICCID",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "h3g-UpdateSIMICCIDCustom5449",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "h3g-UpdateSIMICCID",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "OrderItem",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Id",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "OrderItemId",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "h3g-UpdateSIMICCIDCustoma130Q000000CpjKQASItem2",
+        "%vlocity_namespace%__UpsertKey__c": true,
+        "Name": "h3g-UpdateSIMICCID",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Formula",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 0,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Formula",
+        "%vlocity_namespace%__FormulaOrder__c": 1,
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "DRUpdateBillingShippingAccountOnOrderLineItemsCustom6589",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "DRUpdateBillingShippingAccountOnOrderLineItems",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "OrderItem",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "%vlocity_namespace%__BillingAccountId__c",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "AccIDFromMainOS",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "DRUpdateBillingShippingAccountOnOrderLineItemsCustom5851",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "DRUpdateBillingShippingAccountOnOrderLineItems",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DefaultValue__c": "null",
+        "%vlocity_namespace%__DomainObjectAPIName__c": "OrderItem",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "%vlocity_namespace%__ServiceAccountId__c",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "DRUpdateBillingShippingAccountOnOrderLineItemsCustom6176",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "DRUpdateBillingShippingAccountOnOrderLineItems",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "OrderItem",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Id",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "OrderItemsAddedToCart:Id",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "DRUpdateBillingShippingAccountOnOrderLineItemsCustom9360",
+        "%vlocity_namespace%__UpsertKey__c": true,
+        "Name": "DRUpdateBillingShippingAccountOnOrderLineItems",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__ConfigurationValue__c": "FAKEMAPPING",
+        "%vlocity_namespace%__DomainObjectAPIName__c": "OrderItem",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Id",
+        "%vlocity_namespace%__FilterOperator__c": "=",
+        "%vlocity_namespace%__IsDisabled__c": true,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "DRUpdateBillingShippingAccountOnOrderLineItemsCustom8387",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "DRUpdateBillingShippingAccountOnOrderLineItems",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]

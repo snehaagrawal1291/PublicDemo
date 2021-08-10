@@ -1,0 +1,8 @@
+{
+    "ACRRoles": "Text",
+    "AccountId": "Text",
+    "AccountRecordTypeId": "Text",
+    "AccountStatus": "Text",
+    "ContactId": "Text",
+    "CurrentDateTimeStamp": "Text"
+}

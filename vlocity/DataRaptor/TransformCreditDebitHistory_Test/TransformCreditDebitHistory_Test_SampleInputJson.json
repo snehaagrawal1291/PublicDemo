@@ -1,0 +1,31 @@
+{
+    "SubscriberEventResponse": [
+        {
+            "AgentId": "",
+            "Amount": "-0.01",
+            "Description": "Out Of Bundle Usage",
+            "EventTime": "2020-02-18T09:47:51.82293Z",
+            "EventType": "Adjustment",
+            "NextPageTime": "2020-02-18T09:47:51.82293Z",
+            "TransactionType": "PayForIt"
+        },
+        {
+            "AgentId": "",
+            "Amount": "-0.01",
+            "Description": "Out Of Bundle Usage",
+            "EventTime": "2020-02-18T09:47:51.82293Z",
+            "EventType": "Adjustment",
+            "NextPageTime": "2020-02-18T09:47:51.82293Z",
+            "TransactionType": "Adjustment"
+        },
+        {
+            "AgentId": "",
+            "Amount": "-0.01",
+            "Description": "Out Of Bundle Usage",
+            "EventTime": "2020-02-18T09:47:51.82293Z",
+            "EventType": "Adjustment",
+            "NextPageTime": "2020-02-18T09:47:51.82293Z",
+            "TransactionType": "Adjustment"
+        }
+    ]
+}

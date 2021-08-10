@@ -1,0 +1,27 @@
+{
+    "ContextId": "0019E00000Uyk2I",
+    "MethodType": "'Bank Account'",
+    "SetUpDirectDebit": {
+        "AccountName": "Micky Moose",
+        "AccountNumber": "12344456",
+        "AgreeTerms": true,
+        "BankBuildingSociety": "Halifax",
+        "DirectDebitSafeguard": true,
+        "SortCode": "801166"
+    },
+    "id": "a1z9E000000tfZ4QAI",
+    "layout": "lightning",
+    "timeStamp": "2017-11-23T14:58:45.161Z",
+    "userId": "0059E000002QQmlQAG",
+    "userName": "maja.adams@bluewolfgroup.com.three.dev01",
+    "userProfile": "System Administrator",
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+        "GetPaymentMethod": 372,
+        "OmniScriptSessionToken": "5a9d1685-9959-4f08-88ee-67cf639bdfc5",
+        "SetAccountId": 16,
+        "SetDefaultValues": 12,
+        "SetMethodType": 4
+    }
+}

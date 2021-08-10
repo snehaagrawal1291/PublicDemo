@@ -1,0 +1,156 @@
+{
+    "Epc_Stg_ProductRelationship": [
+        {
+            "Name": "OFF_PAYM_ADDON_10001_OFF_PAYM_PLAN_CHS_24M_ULDATA",
+            "epc_stg_Defaultquantity__c": 1,
+            "epc_stg_MaxQuantity__c": 1,
+            "epc_stg_Product2Id__c": "OFF_PAYM_PLAN_CHS_24M_ULDATA",
+            "epc_stg_RelatedProductId__c": "OFF_PAYM_ADDON_10001",
+            "epc_stg_RelationshipType__c": "Excludes"
+        },
+        {
+            "Name": "OFF_PAYM_ADDON_10002_OFF_PAYM_PLAN_CHS_24M_ULDATA",
+            "epc_stg_Defaultquantity__c": 1,
+            "epc_stg_MaxQuantity__c": 1,
+            "epc_stg_Product2Id__c": "OFF_PAYM_PLAN_CHS_24M_ULDATA",
+            "epc_stg_RelatedProductId__c": "OFF_PAYM_ADDON_10002",
+            "epc_stg_RelationshipType__c": "Excludes"
+        },
+        {
+            "Name": "OFF_PAYM_ADDON_10003_OFF_PAYM_PLAN_CHS_24M_ULDATA",
+            "epc_stg_Defaultquantity__c": 1,
+            "epc_stg_MaxQuantity__c": 1,
+            "epc_stg_Product2Id__c": "OFF_PAYM_PLAN_CHS_24M_ULDATA",
+            "epc_stg_RelatedProductId__c": "OFF_PAYM_ADDON_10003",
+            "epc_stg_RelationshipType__c": "Excludes"
+        },
+        {
+            "Name": "OFF_PAYM_ADDON_10004_OFF_PAYM_PLAN_CHS_24M_ULDATA",
+            "epc_stg_Defaultquantity__c": 1,
+            "epc_stg_MaxQuantity__c": 1,
+            "epc_stg_Product2Id__c": "OFF_PAYM_PLAN_CHS_24M_ULDATA",
+            "epc_stg_RelatedProductId__c": "OFF_PAYM_ADDON_10004",
+            "epc_stg_RelationshipType__c": "Excludes"
+        },
+        {
+            "Name": "OFF_PAYM_ADDON_10005_OFF_PAYM_PLAN_CHS_24M_ULDATA",
+            "epc_stg_Defaultquantity__c": 1,
+            "epc_stg_MaxQuantity__c": 1,
+            "epc_stg_Product2Id__c": "OFF_PAYM_PLAN_CHS_24M_ULDATA",
+            "epc_stg_RelatedProductId__c": "OFF_PAYM_ADDON_10005",
+            "epc_stg_RelationshipType__c": "Excludes"
+        },
+        {
+            "Name": "OFF_PAYM_ADDON_10009_OFF_PAYM_PLAN_CHS_24M_ULDATA",
+            "epc_stg_Defaultquantity__c": 1,
+            "epc_stg_MaxQuantity__c": 1,
+            "epc_stg_Product2Id__c": "OFF_PAYM_PLAN_CHS_24M_ULDATA",
+            "epc_stg_RelatedProductId__c": "OFF_PAYM_ADDON_10009",
+            "epc_stg_RelationshipType__c": "Excludes"
+        },
+        {
+            "Name": "OFF_PAYM_ADDON_10008_OFF_PAYM_PLAN_CHS_24M_ULDATA",
+            "epc_stg_Defaultquantity__c": 1,
+            "epc_stg_MaxQuantity__c": 1,
+            "epc_stg_Product2Id__c": "OFF_PAYM_PLAN_CHS_24M_ULDATA",
+            "epc_stg_RelatedProductId__c": "OFF_PAYM_ADDON_10008",
+            "epc_stg_RelationshipType__c": "Excludes"
+        },
+        {
+            "Name": "OFF_PAYM_ADDON_10006_OFF_PAYM_ADDON_10006",
+            "epc_stg_Defaultquantity__c": 1,
+            "epc_stg_MaxQuantity__c": 1,
+            "epc_stg_Product2Id__c": "OFF_PAYM_ADDON_10006",
+            "epc_stg_RelatedProductId__c": "OFF_PAYM_ADDON_10006",
+            "epc_stg_RelationshipType__c": "Excludes"
+        },
+        {
+            "Name": "OFF_PAYM_ADDON_10006_OFF_PAYM_ADDON_10007",
+            "epc_stg_Defaultquantity__c": 1,
+            "epc_stg_MaxQuantity__c": 1,
+            "epc_stg_Product2Id__c": "OFF_PAYM_ADDON_10007",
+            "epc_stg_RelatedProductId__c": "OFF_PAYM_ADDON_10006",
+            "epc_stg_RelationshipType__c": "Excludes"
+        },
+        {
+            "Name": "OFF_PAYM_ADDON_10007_OFF_PAYM_ADDON_10007",
+            "epc_stg_Defaultquantity__c": 1,
+            "epc_stg_MaxQuantity__c": 1,
+            "epc_stg_Product2Id__c": "OFF_PAYM_ADDON_10007",
+            "epc_stg_RelatedProductId__c": "OFF_PAYM_ADDON_10007",
+            "epc_stg_RelationshipType__c": "Excludes"
+        },
+        {
+            "Name": "OFF_PAYM_ADDON_10001_OFF_PAYM_ADDON_10005",
+            "epc_stg_Defaultquantity__c": 1,
+            "epc_stg_MaxQuantity__c": 1,
+            "epc_stg_Product2Id__c": "OFF_PAYM_ADDON_10005",
+            "epc_stg_RelatedProductId__c": "OFF_PAYM_ADDON_10001",
+            "epc_stg_RelationshipType__c": "Excludes"
+        },
+        {
+            "Name": "OFF_PAYM_ADDON_10002_OFF_PAYM_ADDON_10005",
+            "epc_stg_Defaultquantity__c": 1,
+            "epc_stg_MaxQuantity__c": 1,
+            "epc_stg_Product2Id__c": "OFF_PAYM_ADDON_10005",
+            "epc_stg_RelatedProductId__c": "OFF_PAYM_ADDON_10002",
+            "epc_stg_RelationshipType__c": "Excludes"
+        },
+        {
+            "Name": "OFF_PAYM_ADDON_10003_OFF_PAYM_ADDON_10005",
+            "epc_stg_Defaultquantity__c": 1,
+            "epc_stg_MaxQuantity__c": 1,
+            "epc_stg_Product2Id__c": "OFF_PAYM_ADDON_10005",
+            "epc_stg_RelatedProductId__c": "OFF_PAYM_ADDON_10003",
+            "epc_stg_RelationshipType__c": "Excludes"
+        },
+        {
+            "Name": "OFF_PAYM_ADDON_10004_OFF_PAYM_ADDON_10005",
+            "epc_stg_Defaultquantity__c": 1,
+            "epc_stg_MaxQuantity__c": 1,
+            "epc_stg_Product2Id__c": "OFF_PAYM_ADDON_10005",
+            "epc_stg_RelatedProductId__c": "OFF_PAYM_ADDON_10004",
+            "epc_stg_RelationshipType__c": "Excludes"
+        },
+        {
+            "Name": "OFF_PAYM_ADDON_10005_OFF_PAYM_ADDON_10005",
+            "epc_stg_Defaultquantity__c": 1,
+            "epc_stg_MaxQuantity__c": 1,
+            "epc_stg_Product2Id__c": "OFF_PAYM_ADDON_10005",
+            "epc_stg_RelatedProductId__c": "OFF_PAYM_ADDON_10005",
+            "epc_stg_RelationshipType__c": "Excludes"
+        },
+        {
+            "Name": "OFF_PAYM_ADDON_10009_OFF_PAYM_ADDON_10009",
+            "epc_stg_Defaultquantity__c": 1,
+            "epc_stg_MaxQuantity__c": 1,
+            "epc_stg_Product2Id__c": "OFF_PAYM_ADDON_10009",
+            "epc_stg_RelatedProductId__c": "OFF_PAYM_ADDON_10009",
+            "epc_stg_RelationshipType__c": "Excludes"
+        },
+        {
+            "Name": "OFF_PAYM_ADDON_10008_OFF_PAYM_ADDON_10009",
+            "epc_stg_Defaultquantity__c": 1,
+            "epc_stg_MaxQuantity__c": 1,
+            "epc_stg_Product2Id__c": "OFF_PAYM_ADDON_10009",
+            "epc_stg_RelatedProductId__c": "OFF_PAYM_ADDON_10008",
+            "epc_stg_RelationshipType__c": "Excludes"
+        },
+        {
+            "Name": "OFF_PAYM_ADDON_10009_OFF_PAYM_ADDON_10008",
+            "epc_stg_Defaultquantity__c": 1,
+            "epc_stg_MaxQuantity__c": 1,
+            "epc_stg_Product2Id__c": "OFF_PAYM_ADDON_10008",
+            "epc_stg_RelatedProductId__c": "OFF_PAYM_ADDON_10009",
+            "epc_stg_RelationshipType__c": "Excludes"
+        },
+        {
+            "Name": "OFF_PAYM_ADDON_10008_OFF_PAYM_ADDON_10008",
+            "epc_stg_Defaultquantity__c": 1,
+            "epc_stg_MaxQuantity__c": 1,
+            "epc_stg_Product2Id__c": "OFF_PAYM_ADDON_10008",
+            "epc_stg_RelatedProductId__c": "OFF_PAYM_ADDON_10008",
+            "epc_stg_RelationshipType__c": "Excludes"
+        }
+    ]
+}

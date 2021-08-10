@@ -1,0 +1,88 @@
+{
+    "Epc_Stg_CatalogProductRelationship": [
+        {
+            "Catalog_Reference__c": "OFF_DataSharer1_Three",
+            "Name": "OFF_DataSharer1_Three",
+            "epc_stg_CatalogId__c": "a0b0Q000000GPm6QAG",
+            "epc_stg_IsActive__c": true,
+            "epc_stg_Product2Id__c": "OFF_DataSharer1"
+        },
+        {
+            "Catalog_Reference__c": "OFF_Next_Day_Afternoon_Delivery1_Three",
+            "Name": "OFF_Next_Day_Afternoon_Delivery1_Three",
+            "epc_stg_CatalogId__c": "a0b0Q000000GPm6QAG",
+            "epc_stg_IsActive__c": true,
+            "epc_stg_Product2Id__c": "OFF_Next_Day_Afternoon_Delivery1"
+        },
+        {
+            "Catalog_Reference__c": "OFF_TB_HTCDESIRE500GoldDATA24GB_AYCEMIN_Three",
+            "Name": "OFF_TB_HTCDESIRE500GoldDATA24GB_AYCEMIN_Three",
+            "epc_stg_CatalogId__c": "a0b0Q000000GPm6QAG",
+            "epc_stg_IsActive__c": true,
+            "epc_stg_Product2Id__c": "OFF_TB_HTCDESIRE500GoldDATA24GB_AYCEMIN"
+        },
+        {
+            "Catalog_Reference__c": "OFF_CCS_BAS_DATA24GBPH_AYCEMIN_Three",
+            "Name": "OFF_CCS_BAS_DATA24GBPH_AYCEMIN_Three",
+            "epc_stg_CatalogId__c": "a0b0Q000000GPm6QAG",
+            "epc_stg_IsActive__c": true,
+            "epc_stg_Product2Id__c": "OFF_CCS_BAS_DATA24GBPH_AYCEMIN"
+        },
+        {
+            "Catalog_Reference__c": "OFF_BeatsHeadphone_Three",
+            "Name": "OFF_BeatsHeadphone_Three",
+            "epc_stg_CatalogId__c": "a0b0Q000000GPm6QAG",
+            "epc_stg_IsActive__c": true,
+            "epc_stg_Product2Id__c": "OFF_BeatsHeadphone"
+        },
+        {
+            "Catalog_Reference__c": "OFF_NightStreaming_Three",
+            "Name": "OFF_NightStreaming_Three",
+            "epc_stg_CatalogId__c": "a0b0Q000000GPm6QAG",
+            "epc_stg_IsActive__c": true,
+            "epc_stg_Product2Id__c": "OFF_NightStreaming"
+        },
+        {
+            "Catalog_Reference__c": "OFF_HTC_DESIRE_500_4GB_GOLD_Three",
+            "Name": "OFF_HTC_DESIRE_500_4GB_GOLD_Three",
+            "epc_stg_CatalogId__c": "a0b0Q000000GPm6QAG",
+            "epc_stg_IsActive__c": true,
+            "epc_stg_Product2Id__c": "OFF_HTC_DESIRE_500_4GB_GOLD"
+        },
+        {
+            "Catalog_Reference__c": "OFF_Tier3Insurance_Three",
+            "Name": "OFF_Tier3Insurance_Three",
+            "epc_stg_CatalogId__c": "a0b0Q000000GPm6QAG",
+            "epc_stg_IsActive__c": true,
+            "epc_stg_Product2Id__c": "OFF_Tier3Insurance"
+        },
+        {
+            "Catalog_Reference__c": "OFF_SAO_Three_Rescue_GBP4.00_DO_Three",
+            "Name": "OFF_SAO_Three_Rescue_GBP4.00_DO_Three",
+            "epc_stg_CatalogId__c": "a0b0Q000000GPm6QAG",
+            "epc_stg_IsActive__c": true,
+            "epc_stg_Product2Id__c": "OFF_SAO_Three_Rescue_GBP4.00_DO"
+        },
+        {
+            "Catalog_Reference__c": "OFF_SAO_Three_Rescue_GBP6_2016_Three",
+            "Name": "OFF_SAO_Three_Rescue_GBP6_2016_Three",
+            "epc_stg_CatalogId__c": "a0b0Q000000GPm6QAG",
+            "epc_stg_IsActive__c": true,
+            "epc_stg_Product2Id__c": "OFF_SAO_Three_Rescue_GBP6_2016"
+        },
+        {
+            "Catalog_Reference__c": "OFF_DataSharer_Three",
+            "Name": "OFF_DataSharer_Three",
+            "epc_stg_CatalogId__c": "a0b0Q000000GPm6QAG",
+            "epc_stg_IsActive__c": true,
+            "epc_stg_Product2Id__c": "OFF_DataSharer"
+        },
+        {
+            "Catalog_Reference__c": "OFF_Next_Day_Afternoon_Delivery_Three",
+            "Name": "OFF_Next_Day_Afternoon_Delivery_Three",
+            "epc_stg_CatalogId__c": "a0b0Q000000GPm6QAG",
+            "epc_stg_IsActive__c": true,
+            "epc_stg_Product2Id__c": "OFF_Next_Day_Afternoon_Delivery"
+        }
+    ]
+}

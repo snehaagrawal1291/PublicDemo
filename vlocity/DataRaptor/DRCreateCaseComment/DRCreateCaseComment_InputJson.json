@@ -1,0 +1,116 @@
+{
+    "CaseDetails": {
+        "FileUpload": null,
+        "PerFileMaximumSizeFormula": false,
+        "Title": "F&S Barring",
+        "TotalFileSizeFormula": 0,
+        "isClosed": false,
+        "reply": "test12345"
+    },
+    "ContextId": "",
+    "caseId": "5000Q000001nRTl",
+    "error": "OK",
+    "id": "a1z0Q000000Fp5wQAC",
+    "layout": "lightning",
+    "listData": {
+        "Case": {
+            "Comment": [
+                {
+                    "$$hashKey": "object:140",
+                    "commentBody": "testing, ignore12\r\n\r\nSalesforce.com, Inc. (styled in its logo as salesƒorce; abbreviated usually as SF or SFDC) is an American cloud-based software company headquartered in San Francisco, California. Though the bulk of its revenue comes from a customer relationship management (CRM) product, Salesforce also sells a complementary suite of enterprise applications focused on customer service, marketing automation, analytics and application development.",
+                    "commentedDate": "17 Jan 2019, 14:35",
+                    "createdByName": "Mitulika Sarkar"
+                },
+                {
+                    "$$hashKey": "object:141",
+                    "commentBody": "test, ignore11",
+                    "commentedDate": "17 Jan 2019, 12:20",
+                    "createdByName": "Mitulika Sarkar"
+                },
+                {
+                    "$$hashKey": "object:142",
+                    "commentBody": "testing, ignore10",
+                    "commentedDate": "16 Jan 2019, 16:50",
+                    "createdByName": "Mitulika Sarkar"
+                },
+                {
+                    "$$hashKey": "object:143",
+                    "commentBody": "testing, ignore9",
+                    "commentedDate": "16 Jan 2019, 16:50",
+                    "createdByName": "Mitulika Sarkar"
+                },
+                {
+                    "$$hashKey": "object:144",
+                    "commentBody": "testing, ignore8",
+                    "commentedDate": "2019-01-16T11:20:09.000Z",
+                    "createdByName": "Mitulika Sarkar"
+                },
+                {
+                    "$$hashKey": "object:145",
+                    "commentBody": "testing, ignore7",
+                    "commentedDate": "2019-01-16T11:19:39.000Z",
+                    "createdByName": "Mitulika Sarkar"
+                },
+                {
+                    "$$hashKey": "object:146",
+                    "commentBody": "testing, ignore6",
+                    "commentedDate": "2019-01-16T11:19:26.000Z",
+                    "createdByName": "Mitulika Sarkar"
+                },
+                {
+                    "$$hashKey": "object:147",
+                    "commentBody": "testing, ignore5",
+                    "commentedDate": "2019-01-16T11:19:16.000Z",
+                    "createdByName": "Mitulika Sarkar"
+                },
+                {
+                    "$$hashKey": "object:148",
+                    "commentBody": "test, ignore4",
+                    "commentedDate": "2019-01-16T10:33:33.000Z",
+                    "createdByName": "Mitulika Sarkar"
+                },
+                {
+                    "$$hashKey": "object:149",
+                    "commentBody": "testing 3, ignore",
+                    "commentedDate": "2019-01-08T07:17:17.000Z",
+                    "createdByName": "Lakshmi Mallidi"
+                },
+                {
+                    "$$hashKey": "object:150",
+                    "commentBody": "testing2 , ignore",
+                    "commentedDate": "2019-01-08T07:16:56.000Z",
+                    "createdByName": "Lakshmi Mallidi"
+                },
+                {
+                    "$$hashKey": "object:151",
+                    "commentBody": "test, ignore",
+                    "commentedDate": "2019-01-07T10:10:51.000Z",
+                    "createdByName": "Lakshmi Mallidi"
+                }
+            ],
+            "Type": "F&S",
+            "caseDetail": "SIM not activated",
+            "caseNumber": "00001351",
+            "caseStatus": "Re-Opened",
+            "createdDate": "2019-01-07T07:16:59.000Z",
+            "isClosed": false,
+            "issueId": "123 456 678",
+            "lastModifiedDate": "01/08/2019",
+            "subType": "Barring"
+        }
+    },
+    "maximum": false,
+    "metadata": {
+        "FileSize": "10000",
+        "FileType": "image/jpeg,image/png,application/pdf,application/docx",
+        "TotalFileSize": "100000"
+    },
+    "timeStamp": "2019-01-17T11:36:46.523Z",
+    "userCurrencyCode": "GBP",
+    "userId": "0050Q000000MDuWQAW",
+    "userName": "lmallidi@vlocity.com.three.vlocityb02",
+    "userProfile": "Custom Admin",
+    "userTimeZone": 0,
+    "vlcPersistentComponent": {
+    }
+}

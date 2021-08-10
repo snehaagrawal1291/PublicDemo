@@ -1,0 +1,55 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "CaseComment",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "CommentBody",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "CaseDetails:reply",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "DRCreateCaseCommentCustoma130Q000000EICGQA4Item1",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "DRCreateCaseComment",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__ConfigurationValue__c": "FAKEMAPPING",
+        "%vlocity_namespace%__DomainObjectAPIName__c": "CaseComment",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Id",
+        "%vlocity_namespace%__FilterOperator__c": "=",
+        "%vlocity_namespace%__IsDisabled__c": true,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "DRCreateCaseCommentCustoma130Q000000EICGQA4Item0",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "DRCreateCaseComment",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DefaultValue__c": "true",
+        "%vlocity_namespace%__DomainObjectAPIName__c": "CaseComment",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "IsPublished",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "DRCreateCaseCommentCustom1220",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "DRCreateCaseComment",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "CaseComment",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "ParentId",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "caseId",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": true,
+        "%vlocity_namespace%__MapId__c": "DRCreateCaseCommentCustoma130Q000000EICGQA4Item2",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "DRCreateCaseComment",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]

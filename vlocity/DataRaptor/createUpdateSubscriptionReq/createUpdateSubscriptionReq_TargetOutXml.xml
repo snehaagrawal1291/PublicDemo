@@ -1,0 +1,37 @@
+<soapenv:Envelope
+	xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+	<soapenv:Header/>
+	<soapenv:Body>
+		<tns:UpdateSubscriptionRequest
+			xmlns:tns="http://xmlns.three.co.uk/xsd/susbcriptionmanagement/updatesubscription"
+			xmlns:tns1="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/common"
+			xmlns:tns2="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/systemview"
+			xmlns:tns3="http://www.ibm.com/telecom/v8.5.0/businessobject/system/sid-v12.5/billing/extensions"
+			xmlns:tns4="http://www.ibm.com/software/issw/telecom/pack/v8.5.0/lite/businessobject/system/sid-v12.5"
+			xmlns:tns5="http://TPCMN">
+			<Header>
+				<tns1:CorrelationId_T>csdvsdvsvv</tns1:CorrelationId_T>
+				<tns1:ActivityName_T>REQUEST</tns1:ActivityName_T>
+				<tns1:Source>CRM</tns1:Source>
+				<tns1:Timestamp>2019-03-04T11:30:00.554Z</tns1:Timestamp>
+			</Header>
+			<Payload>
+				<tns2:AssociatedCustomerAccount>
+					<tns2:CustomerAccountExtension>
+						<tns3:Subscriptions>
+							<ID>
+								<tns1:ID>10000001</tns1:ID>
+								<tns1:ValidFor>
+									<tns1:startDate>2019-03-04T11:30:00.554Z</tns1:startDate>
+								</tns1:ValidFor>
+							</ID>
+							<Status>
+								<tns1:description>Active</tns1:description>
+							</Status>
+						</tns3:Subscriptions>
+					</tns2:CustomerAccountExtension>
+				</tns2:AssociatedCustomerAccount>
+			</Payload>
+		</tns:UpdateSubscriptionRequest>
+	</soapenv:Body>
+</soapenv:Envelope>

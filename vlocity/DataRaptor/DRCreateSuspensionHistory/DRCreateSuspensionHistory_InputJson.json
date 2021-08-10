@@ -1,0 +1,19 @@
+{
+    "SuspensionHistory": [
+        {
+            "AssetId": "",
+            "BillingAccountId": "0011w00000eINlsAAG",
+            "CaseId": "",
+            "ConsumerAccountId": "0011w00000eINlsAAG",
+            "ContactId": "0031w00000YOrluAAD",
+            "ServiceAccountId": "0011w00000eINlsAAG",
+            "Status": "Suspend In Progress",
+            "SubscriptionId": "a5t1w000000CpPAAA0",
+            "SuspensionConfirmationStatus": "Open",
+            "SuspensionDate": "2020-05-04 00:00:00",
+            "SuspensionReason": "Testing",
+            "SuspensionSubReason": "SubTesting",
+            "SuspensionType": "FRAUD"
+        }
+    ]
+}

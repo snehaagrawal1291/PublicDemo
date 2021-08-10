@@ -1,0 +1,22 @@
+{
+    "ContextId": "0030Q00000E6Nvy",
+    "PersonalInformation": {
+        "AlternativeNumber": "9999999999",
+        "DOB": "1974-01-04",
+        "FirstName": "test",
+        "LastName": "testing",
+        "MaritalStatus": "Single",
+        "Title": "Manager"
+    },
+    "id": "0030Q00000DotFvQAJ",
+    "layout": "lightning",
+    "testContextId": "0030Q00000DotAC",
+    "timeStamp": "2019-01-29T11:39:09.946Z",
+    "userCurrencyCode": "GBP",
+    "userId": "0050Q000000MaOOQA0",
+    "userName": "vreddy@vlocity.com.three.vlocityb03",
+    "userProfile": "System Administrator",
+    "userTimeZone": 0,
+    "vlcPersistentComponent": {
+    }
+}

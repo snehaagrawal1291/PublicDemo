@@ -1,0 +1,31 @@
+{
+    "321CreditTopUp": {
+        "MSISDN": "447436722452",
+        "OtherAmount": "£0.00",
+        "SelectAmount": null,
+        "UseOtherNumber": null
+    },
+    "AccountId": "0019E00000GLdYVQA1",
+    "ContextId": "02i9E000001XwBe",
+    "OrderStatus": "Draft",
+    "OtherAmount2": "£0.00",
+    "id": "a1z9E0000016hHWQAY",
+    "layout": "lightning",
+    "orderEffectiveDate": "",
+    "orderStatus": "Draft",
+    "recordType": "Top-Up",
+    "timeStamp": "2018-01-30T15:41:07.779Z",
+    "userId": "0059E0000011E6FQAU",
+    "userName": "freddie.crouch@bluewolfgroup.com.three.dev01",
+    "userProfile": "System Administrator",
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+        "Extract Asset": 1634,
+        "OmniScriptSessionToken": "3e571f7c-0cd1-4c1a-bfcf-947d8f586066",
+        "SetAsset": 109,
+        "SetCartInfo": 59,
+        "SetOtherAmounts": 29,
+        "SetotherAmount": 14
+    }
+}

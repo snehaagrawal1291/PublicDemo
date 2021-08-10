@@ -1,0 +1,15 @@
+{
+    "ClassName": "Test log VIP",
+    "MethodName": "EPCDataStgLoad",
+    "Request": {
+        "Version": "Apr23V2_M"
+    },
+    "ResultMessage": "No products in staging with the provided version",
+    "ResultStatus": "Unsuccessful : FailureProduct",
+    "SetValues3": {
+        "OverAllErrorDescription": "No products in staging with the provided version",
+        "OverAllErrorStatus": "FailureProduct",
+        "OverAllErrorStatusLog": "Unsuccessful"
+    },
+    "Type": "Integration"
+}

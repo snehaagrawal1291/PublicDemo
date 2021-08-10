@@ -1,0 +1,93 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "RAFetchTopupOffers:offers:Amount",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "RAFetchTopupOffers:offers:priceResult:Amount__c",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "AutoTopupTrimJsonCustom8412",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "AutoTopupTrimJson",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "RAFetchTopupOffers:offers:Description",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "RAFetchTopupOffers:offers:Description",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "AutoTopupTrimJsonCustom456",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "AutoTopupTrimJson",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "RAFetchTopupOffers:offers:DisplayText",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "RAFetchTopupOffers:offers:priceResult:DisplayText__c",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "AutoTopupTrimJsonCustom658",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "AutoTopupTrimJson",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "RAFetchTopupOffers:offers:Name",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "RAFetchTopupOffers:offers:Name",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "AutoTopupTrimJsonCustom2092",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "AutoTopupTrimJson",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "RAFetchTopupOffers:offers:ProductCode",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "RAFetchTopupOffers:offers:ProductCode",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "AutoTopupTrimJsonCustom2753",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "AutoTopupTrimJson",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "RAFetchTopupOffers:offers:UnitPrice",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "RAFetchTopupOffers:offers:priceResult:UnitPrice",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "AutoTopupTrimJsonCustom214",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "AutoTopupTrimJson",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "RAFetchTopupOffers:offers:offerType",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "RAFetchTopupOffers:offers:offerType",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "AutoTopupTrimJsonCustom9000",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "AutoTopupTrimJson",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]

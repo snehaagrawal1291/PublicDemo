@@ -1,0 +1,9 @@
+{
+    "Epc_Stg_CatalogProductRelationship": {
+        "Catalog_Reference__c": "OFF_DataSharer1_Three",
+        "Name": "OFF_DataSharer1_Three",
+        "epc_stg_CatalogId__c": "THREE",
+        "epc_stg_IsActive__c": true,
+        "epc_stg_Product2Id__c": "OFF_DataSharer1"
+    }
+}

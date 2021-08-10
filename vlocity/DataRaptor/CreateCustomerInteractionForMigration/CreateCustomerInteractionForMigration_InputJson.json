@@ -1,0 +1,47 @@
+{
+    "CustomerInteraction": {
+        "AccountId": "string",
+        "CaseNumber": "String",
+        "Channel": "string",
+        "ContactId": "string",
+        "CustomerInteractionTopic": [
+            {
+                "AccountId": "string",
+                "Adjustment": 0,
+                "CaseId": "string",
+                "ContactId": "string",
+                "ContractId": "string",
+                "LTR": "string",
+                "MSISDN": "string",
+                "OrderId": "string",
+                "Payment": 0,
+                "Reason": "string",
+                "SubReason": "string",
+                "TransactionID": "string",
+                "TransactionStatus": "string",
+                "medalliaURL": "string",
+                "surveyChannel": "string",
+                "surveyID": "string",
+                "surveyresponseDate": "string"
+            }
+        ],
+        "Description": "string",
+        "Duration": "string",
+        "EndTime": "string",
+        "ExternalID": "string",
+        "MSISDN": "string",
+        "StartTime": "string",
+        "Status": "string",
+        "SubscriptionNumber": "String",
+        "Type": "string",
+        "VerificationTimestamp": "string",
+        "Verified": true,
+        "VerifiedAgentName": "string"
+    },
+    "Header": {
+        "ActivityName": "string",
+        "CorrelationId": "string",
+        "MsgType": "string",
+        "Timestamp": "string"
+    }
+}

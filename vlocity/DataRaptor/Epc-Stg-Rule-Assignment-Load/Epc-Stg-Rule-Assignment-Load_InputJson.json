@@ -1,0 +1,10 @@
+{
+    "Epc_Stg_RuleAssignment": [
+        {
+            "Name": "OFF_CORETARIFFDATA25GBAYCEVOICETEXT_Upgrade",
+            "epc_stg_PricingObjectId__c": "Text",
+            "epc_stg_ProductObjectId__c": "Text",
+            "epc_stg_RuleId__c": "a320Q000000CjX9QAK"
+        }
+    ]
+}

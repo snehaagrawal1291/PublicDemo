@@ -1,0 +1,72 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 0,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Epc_Stg_RuleAssignment",
+        "%vlocity_namespace%__FilterGroup__c": 0,
+        "%vlocity_namespace%__FilterOperator__c": "=",
+        "%vlocity_namespace%__FilterValue__c": "version",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "epc_stg_Version__r.Name",
+        "%vlocity_namespace%__InterfaceObjectLookupOrder__c": 1,
+        "%vlocity_namespace%__InterfaceObjectName__c": "epc_stg_RuleAssignment__c",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "Epc Stg Rule Assignment ExtractCustom2370",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "Epc Stg Rule Assignment Extract",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Epc_Stg_RuleAssignment:Name",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Epc_Stg_RuleAssignment:Name",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "Epc Stg Rule AssignmentCustom2630",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "Epc Stg Rule Assignment Extract",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Epc_Stg_RuleAssignment:epc_stg_PricingObjectId__c",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Epc_Stg_RuleAssignment:epc_stg_PricingObjectId__c",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "Epc Stg Rule AssignmentCustom5564",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "Epc Stg Rule Assignment Extract",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Epc_Stg_RuleAssignment:epc_stg_ProductObjectId__c",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Epc_Stg_RuleAssignment:epc_stg_ProductObjectId__c",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "Epc Stg Rule Assignment ExtractCustom1151",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "Epc Stg Rule Assignment Extract",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Epc_Stg_RuleAssignment:epc_stg_RuleId__c",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Epc_Stg_RuleAssignment:epc_stg_RuleId__c",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "Epc Stg Rule AssignmentCustom1578",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "Epc Stg Rule Assignment Extract",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]

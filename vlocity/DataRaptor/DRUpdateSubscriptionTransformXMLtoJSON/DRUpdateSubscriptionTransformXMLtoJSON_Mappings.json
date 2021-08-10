@@ -1,0 +1,58 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Formula",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 0,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Formula",
+        "%vlocity_namespace%__FormulaOrder__c": 1,
+        "%vlocity_namespace%__FormulaResultPath__c": "isSuccess",
+        "%vlocity_namespace%__Formula__c": "IF(%ResMsg:ActivityStatusEnum% == 'SUCCESS',true,false)",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "DRUpdateSubscriptionTransformXMLtoJSONCustom4503",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "DRUpdateSubscriptionTransformXMLtoJSON",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Formula",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 0,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Formula",
+        "%vlocity_namespace%__FormulaOrder__c": 2,
+        "%vlocity_namespace%__FormulaResultPath__c": "ErrorCode",
+        "%vlocity_namespace%__Formula__c": "IF(%ResMsg:error% == 'OK',%ResMsg:ProviderInfoDescription%,'FAILURE')",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "DRUpdateSubscriptionTransformXMLtoJSONCustom9732",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "DRUpdateSubscriptionTransformXMLtoJSON",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "ErrorCode",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "ErrorCode",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "DRUpdateSubscriptionTransformXMLtoJSONCustom7541",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "DRUpdateSubscriptionTransformXMLtoJSON",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Success",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "isSuccess",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "DRUpdateSubscriptionTransformXMLtoJSONCustom4890",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "DRUpdateSubscriptionTransformXMLtoJSON",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]

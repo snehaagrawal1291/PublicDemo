@@ -1,0 +1,294 @@
+{
+    "AbsoluteDeclineStep": {
+        "AbsoluteDecline": {
+            "AbsoluteDecisionRadio": null
+        }
+    },
+    "AddressCheckStep": {
+        "CurrentAddress": null,
+        "CurrentAddressBFPOBlock": {
+            "BFPOAddressCheckbox": null,
+            "CurrentBFPOAddress": {
+                "CurrentBFPOLocationName": null,
+                "CurrentBFPONumber": null,
+                "CurrentBFPORankName": null,
+                "CurrentBFPOUnitRegiment": null
+            }
+        },
+        "CurrentAddressCheckBlock": {
+        },
+        "PostcodeEntryBlock": {
+            "AddressLine1": null,
+            "AddressListSelectableItems": null,
+            "CurrentAddressManualInput": {
+                "CurrentAddressCountry": null,
+                "CurrentAddressLine1": null,
+                "CurrentAddressLine2": null,
+                "CurrentAddressLocality": null,
+                "CurrentAddressPostcode": null,
+                "CurrentAddressStateOrProvince": null
+            },
+            "CurrentAddressManualInputCheckboxBlock": {
+                "ManualInputCheckbox": null
+            },
+            "CurrentAddressNotFoundBlock": {
+                "AddressNotFoundMessaging": null
+            },
+            "IsManualInput": null,
+            "Postcode": null
+        }
+    },
+    "BankAccountDetails": {
+        "AccountHolderNameBlock": {
+            "AccountHolderName": null
+        },
+        "AccountId": null,
+        "AccountNumberBlock": {
+            "BankAccountNumber": null
+        },
+        "AgreetoDirectDebit": null,
+        "BankAccountSetupDate": null,
+        "CCConsent": {
+            "AgreetoCreditCheck": null,
+            "ManualAuthorisationRequired": null
+        },
+        "ContactId": null,
+        "DirectDebitGuranteeMessage": null,
+        "DirectDebitMessage": null,
+        "ManualAuthorisationRequiredDD": null,
+        "SortCodeBlock": {
+            "SortCode": null,
+            "SortCodeFormula": null
+        },
+        "TimeAtBankBlock": {
+            "TimeAtBankMonths": null,
+            "TimeAtBankYears": null
+        },
+        "TimeAtBankMonthsError": null,
+        "TimeAtBankMonthsFormula": null,
+        "TimeAtBankYearsMonthsError": null,
+        "TimeAtBankYearsMonthsFormula": null
+    },
+    "CollectDetailsForPayment": {
+        "CardHolderAddress": {
+            "CardHolderAddressLine": null,
+            "CardHolderLocality": null,
+            "CardHolderPostCode": null
+        },
+        "CardHolderDetails": {
+            "CardHolderFirstName": null,
+            "CardHolderLastName": null
+        }
+    },
+    "ContextId": null,
+    "CreditCheckResult": {
+        "AcceptInPrincipleBlock": {
+            "PayDepositRadio": null
+        }
+    },
+    "DeclinePAYUSIMStep": {
+        "DeclinePAYUSIM": {
+            "DeclinePAYURadio": null,
+            "SetPAYUGOPlan": null
+        }
+    },
+    "DeclineSIMOStep": {
+        "DeclineSIMO": {
+            "SelectSIMOPlan": null
+        }
+    },
+    "ErrorStep": {
+    },
+    "FirstnameForm": {
+        "AboutYouBlock2": {
+            "EmailUsername": null
+        },
+        "AboutYouBlock3": {
+            "Password": null
+        },
+        "AboutYouBlock31": {
+            "PasswordCheck": null,
+            "PasswordRepeat": null
+        },
+        "AboutYouBlock4": {
+            "Firstname": null
+        },
+        "AboutYouBlock5": {
+            "Lastname": null
+        },
+        "AboutYouBlock6": {
+            "Title": null
+        },
+        "AboutYouBlock7": {
+            "MaritalStatus": null
+        },
+        "AboutYouBlock8": {
+            "DOBFormula": null,
+            "DateOfBirth": null,
+            "DateOfBirthCC": null,
+            "FutureDateFormula": null,
+            "FutureDateMessage": null,
+            "InvalidDateFormula": null,
+            "InvalidDateMessage": null,
+            "LessThan18Formula": null,
+            "LessThan18Message": null,
+            "MoreThan100Formula": null,
+            "MoreThan100Message": null,
+            "UserAlias": null
+        },
+        "AboutYouBlock9": {
+            "PhoneNumber": null,
+            "PhoneNumberFormula": null
+        },
+        "MarketingPreferences": {
+            "AdditionalMarketingPrefrences": {
+                "MarketingCommsEmail": null,
+                "MarketingCommsPhone": null,
+                "MarketingCommsPost": null,
+                "MarketingCommsSMS": null
+            },
+            "preferMarketingCheck": null
+        },
+        "PaymentDateFormula": null
+    },
+    "No Consent Given": {
+    },
+    "PrepaidOrder": {
+    },
+    "ReferralOrFraudStep": {
+        "ReferralOrFraud": {
+            "RefGetInTouchRadio": null
+        }
+    },
+    "Result": {
+    },
+    "SetYourPayment": {
+        "PaymentErrorsMessaging": null,
+        "PaymentIframeBlock": {
+        }
+    },
+    "Staff": {
+    },
+    "Step1": {
+        "VerifyGrossAnnualIncome": null,
+        "WhatYouDoBlock2": {
+            "EmploymentStatus": null
+        },
+        "WhatYouDoBlock3": {
+            "OccupationStatus": null
+        },
+        "WhatYouDoBlock4": {
+            "EmploymentDurationFormula": null,
+            "EmploymentDurationMonth": null,
+            "EmploymentDurationYear": null,
+            "EmploymentDurationYearsMonths": null,
+            "EmploymentMonthsError": null,
+            "YearsMonthsError": null
+        }
+    },
+    "StepError": {
+    },
+    "VIPCustomer": {
+    },
+    "timeStamp": null,
+    "userId": null,
+    "userName": null,
+    "userProfile": null,
+    "userTimeZone": null,
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+        "AbsoluteDeclineStep": null,
+        "AddDepositToBasket": null,
+        "AddressCheckStep": null,
+        "BankAccountDetails": null,
+        "BankDetailsDDUpsert": null,
+        "CallUpdateAuthorizedParty": null,
+        "CallUpdatePartyDetails": null,
+        "ChangeAccountForOrder": null,
+        "CollectDetailsForPayment": null,
+        "ConvertOneTimeTotalToString": null,
+        "Core_AddressCheck_SetValues": null,
+        "Core_AddressCheck_SetValues_ForManualInput": null,
+        "CreateBillingAccInDownStream": null,
+        "CreateIndividuals": null,
+        "CreateSubscription": null,
+        "CreditCheckCall": null,
+        "CreditCheckResult": null,
+        "DRGetAccount": null,
+        "DRGetOrder": null,
+        "DRGetPaymentMethod": null,
+        "DRUpdateOrderStatusToSubmitted": null,
+        "DRUpdatePaymentDayNAccMethod": null,
+        "DataForCreateBillingAccInDownStream": null,
+        "DeclinePAYUSIMStep": null,
+        "DeclineSIMOStep": null,
+        "DuplicateUserFound": null,
+        "ErrorStep": null,
+        "ExtractAllOrderItems": null,
+        "ExtractBillingAccountNumber": null,
+        "ExtractCurrentAddress": null,
+        "ExtractOrderItemsFromOrderMSISDN": null,
+        "ExtractProducttype": null,
+        "ExtractSimOrderLineItem": null,
+        "ExtractSubscriberOrderLineItem": null,
+        "FirstnameForm": null,
+        "GetContact": null,
+        "GetContactACR": null,
+        "GetCreditConsent": null,
+        "GetDownsellPlans": null,
+        "GetOrderEffectiveOneTimeTotal": null,
+        "GetProductType": null,
+        "GetRecordTypeNameOfAccount": null,
+        "GetReservedMSISDN": null,
+        "GetRoleofContact": null,
+        "JoinAboutYouVIP": null,
+        "Join_AboutYouData": null,
+        "No Consent Given": null,
+        "PerformBankCheck": null,
+        "PrepaidOrder": null,
+        "ReferralOrFraudStep": null,
+        "Result": null,
+        "SetACRValues": null,
+        "SetAccountIdContactIdOrderIdPMId": null,
+        "SetAddressCheck": null,
+        "SetAddressType": null,
+        "SetBrand": null,
+        "SetContextIdasOrderId": null,
+        "SetDataForAddressCheck": null,
+        "SetDataForCardPayment": null,
+        "SetDataForCreditCheck": null,
+        "SetDataToExtractMSISDN": null,
+        "SetDepositTimeAndValue": null,
+        "SetEmploymentDuration": null,
+        "SetErrorDetails": null,
+        "SetErrorsDuplicateAccount": null,
+        "SetOrderData": null,
+        "SetOrderId": null,
+        "SetPAYUGOSIMPlan": null,
+        "SetPrepaidOrPostPaid": null,
+        "SetSelectSIMOPlan": null,
+        "SetUserNameWithBrand": null,
+        "SetValues7": null,
+        "SetValuesForBankCheck": null,
+        "SetValuesForCardPayment": null,
+        "SetValuesForExtractCurrentAddressVIP": null,
+        "SetValuesForUpdateSubscriberWithBAN": null,
+        "SetValuesReturnURL": null,
+        "SetYourPayment": null,
+        "Staff": null,
+        "Step1": null,
+        "StepError": null,
+        "SubmitOrder": null,
+        "UpdateBillingShippingAccountOnOrderLineItems": null,
+        "UpdateCurrentNPreviousAddress": null,
+        "UpdateMSISDN": null,
+        "UpdateMailingAddressVIP": null,
+        "UpdateOrder": null,
+        "UpdateSUBSUBTypeOnSubscription": null,
+        "UpdateSubscriberWithBAN": null,
+        "VIPCompletePayment": null,
+        "VIPCustomer": null,
+        "VIPInitiatePayment": null
+    }
+}

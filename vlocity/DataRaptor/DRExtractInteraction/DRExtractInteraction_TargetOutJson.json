@@ -1,0 +1,11 @@
+{
+    "Comments": "Text",
+    "Id": "Text",
+    "InteractionTopic": {
+        "Id": "Text",
+        "Name": "Text",
+        "Outcome": "Text",
+        "Reason": "Text",
+        "SubReason": "Text"
+    }
+}

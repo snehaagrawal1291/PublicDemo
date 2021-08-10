@@ -1,0 +1,28 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Case",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Id",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "CaseId",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "DRUpdateCaseStatusCustom4474",
+        "%vlocity_namespace%__UpsertKey__c": true,
+        "Name": "DRUpdateCaseStatus",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Case",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Status",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "CaseStatus",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "DRUpdateCaseStatusCustom8750",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "DRUpdateCaseStatus",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]

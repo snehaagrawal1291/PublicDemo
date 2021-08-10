@@ -1,0 +1,16 @@
+{
+    "Header": {
+        "ActivityName_T": "BS_100_beginWebPayment",
+        "ActivityStatusEnum_T": "FAILURE",
+        "CorrelationId_T": "12341587022227233",
+        "MsgType_T": "RESPONSE",
+        "ProviderInfo": [
+            {
+                "description": "Unable to process the payment as the Bank has not been able to verify the card security details",
+                "name": "E41025"
+            }
+        ],
+        "Source": "BPS",
+        "Timestamp": "2020-04-16T07:30:32.97Z"
+    }
+}

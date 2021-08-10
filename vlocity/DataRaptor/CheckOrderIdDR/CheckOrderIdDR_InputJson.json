@@ -1,0 +1,25 @@
+{
+    "ContextId": null,
+    "SetYourPayment": {
+        "Block1": {
+        },
+        "Block2": {
+            "CVV": null,
+            "CardNumber": null,
+            "ExpiryDate": null,
+            "NameonCard": null,
+            "SavePaymentMethodCheck": null
+        }
+    },
+    "timeStamp": null,
+    "userId": null,
+    "userName": null,
+    "userProfile": null,
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+        "DataRaptorExtractAction1": null,
+        "DataRaptorTransformAction1": null,
+        "SetYourPayment": null
+    }
+}
